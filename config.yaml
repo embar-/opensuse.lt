@@ -1,0 +1,93 @@
+url: https://suse.rq.lt/
+DefaultContentLanguage: lt
+languageCode: lt
+title: openSUSE.lt
+description: openSUSE Linux naujienos, pagalba nuo 2002 m. spalio 25 d.
+theme: mainroad
+paginate: 3
+menus:
+    main:
+        - name: Naujienos
+          pageRef: /
+          weight: 10
+#        - name: Pamokos
+#          url: /pamokos
+#          weight: 20
+        - name: Parsisiųsti „openSUSE“
+          url: https://software.opensuse.org/?locale=lt
+          weight: 30
+          params:
+            rel: external
+            target: _blank
+        - name: Parsisiųsti „Lietuką“
+          url: http://lietukas.lt/gauti.html
+          weight: 40
+          params:
+              rel: external
+              target: _blank
+        - name: „openSUSE“ pradedantiesiems
+          pageRef: /opensuse-pradedantiesiems
+          weight: 50
+        - name: „Diegti tuoj pat“ kolekcija
+          url: http://lietukas.lt/ymp_kolekcija.html
+          weight: 60
+          params:
+              rel: external
+              target: _blank
+
+#uglyURLs: true # uncomment to use .html suffix in URLs instead of a trailing slash
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+        parser:
+            attribute:
+                block: true
+params:
+    description: openSUSE Linux naujienos, pagalba nuo 2002 m. spalio 25 d.
+    subtitle: openSUSE Linux naujienos, pagalba nuo 2002 m. spalio 25 d.
+    copyright: opensuse.lt
+    sidebar:
+        home: right
+        list: right
+        single: right
+        widgets:
+            - search
+            - counter
+            - laukiame-straipsnelių
+    widgets:
+        search:
+            cached: true
+            url: https://duckduckgo.com/
+            input:
+                name: sites
+        counter:
+            cached: true
+        laukiame-straipsnelių:
+            cached: true
+    mainSections:
+        - diegimas
+        - geležis
+        - http
+        - isvaizdos-keitimas
+        - ivairus
+        - kita
+        - klaidos
+        - opensuseivykiai
+        - programos
+        - saugumas
+        - skelbimai
+        - svetainės
+        - vertimas-lokalizavimas
+    dateFormat: :date_long
+    post_meta:
+        - author
+        - date
+        - categories
+        - translations
+    logo:
+        image: '/images/girl.png'
+    customCss: [ 'css/custom.css' ]
+    style:
+        vars:
+            highlightColor: "#0d8726"

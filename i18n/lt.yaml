@@ -1,0 +1,81 @@
+# General
+- id: read_more
+  translation: "Skaityti toliau…"
+
+- id: menu_label
+  translation: "Meniu"
+
+- id: sidemenu_title
+  translation: "Meniu"
+
+# Post meta
+- id: meta_lastmod
+  translation: "straipsnis taisytas"
+
+- id: meta_translations
+  translation: "Vertimai"
+
+# Table of Contents
+- id: toc_title
+  translation: "Poskyriai"
+
+# Post nav
+- id: post_nav_prev
+  translation: "Ankstesnis"
+
+- id: post_nav_next
+  translation: "Kitas"
+
+# Authorbox
+- id: authorbox_name
+  translation: "Apie {{ .Name }}"
+
+# Sidebar
+- id: sidebar_warning
+  translation: "DĖMESIO"
+
+- id: sidebar_recommendation
+  translation: "Aktyvinkite bent vieną šoninio polangio elementą."
+
+# Search widget
+- id: search_placeholder
+  translation: "Ieškoti…"
+
+# Languages widget
+- id: languages_title
+  translation: "Kalbos"
+
+# Categories widget
+- id: categories_title
+  translation: "Kategorijos"
+
+# Recent Posts widget
+- id: recent_title
+  translation: "Naujausi įrašai"
+
+# Social widget
+- id: social_title
+  translation: "Socialiniai tinklai"
+
+# Tags List widget
+- id: tags_title
+  translation: "Gairės"
+
+# Footer
+- id: footer_credits
+  translation:
+    "Daugumai tekstų taikoma <a href=\"http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1\" target=\"_blank\" rel=\"license noopener noreferrer\">CC-BY-4.0 licencija</a>. \
+    Peržiūrėti svetainės pirminius tekstus, siūlyti pakeitimų ar papildymų galite \
+    <a href=\"#\" rel=\"nofollow noopener\" target=\"_blank\">„GitHub“</a> platformoje."
+
+# 404
+- id: 404_title
+  translation: "404. Tinklalapis nerastas"
+
+- id: 404_text
+  translation:
+    "Tinklapis, kurį bandėte pasiekti, mūsų svetainėje nerastas. Taip galėjo nutikti, jei pasikeitė jo adresas ar jis buvo pašalintas iš serverio. \
+    Informaciją, kurios ieškote, tikriausiai galite rasti kituose mūsų svetainės tinklalapiuose. Siūlome peržiūrėti svetainės meniu arba pereiti į"
+
+- id: 404_linktext
+  translation: "pradžios tinklalapį"

@@ -1,0 +1,261 @@
+# !/bin/bash
+
+# You need to run this script in openSUSE Leap 15.0 or 42.3.
+
+# New YaST2 icons extracted into local directory usr/share/icons/hicolor/
+# ls -1 usr/share/icons/hicolor/scalable/apps/ > scalable.txt
+# ls -1 usr/share/icons/hicolor/symbolic/apps/ > symbolic.txt
+# IKNS=$(ls -1 usr/share/icons/hicolor/scalable/apps/ | sed "s/.svg$//")
+
+IKNS="yast-addon
+yast-alternatives
+yast-apparmor
+yast-audit-laf
+yast-auth-client
+yast-backup
+yast-bootloader
+yast-checkmedia
+yast-cluster
+yast-configuration-management
+yast-control-center
+yast-dhcp-server
+yast-disk
+yast-dns-server
+yast-docker
+yast-drbd
+yast-fcoe
+yast-firewall
+yast-firstboot
+yast-fonts
+yast-ftp-server
+yast-geo-cluster
+yast-host
+yast-http-server
+yast-hwinfo
+yast-installation
+yast-instserver
+yast-iplb
+yast-iscsi-client
+yast-iscsi-server
+yast-isns
+yast-journal
+yast-kdump
+yast-keyboard
+yast-kerberos-server
+yast-kernel
+yast-language
+yast-lan
+yast-ldap-kerberos
+yast-ldap-server
+yast-license
+yast-mail
+yast-multipath
+yast-nfs-server
+yast-nfs
+yast-nis-server
+yast-nis
+yast-ntp-client
+yast-printer
+yast-proxy
+yast-release-notes
+yast-remote-rdp
+yast-remote
+yast-samba-client
+yast-samba-server
+yast-scanner
+yast-security
+yast-services-manager
+yast-sysconfig
+yast-slp-server
+yast-snapper
+yast-sound
+yast-squid
+yast-sudo
+yast-support
+yast-sw_single
+yast-sw_source
+yast-tftp-server
+yast-timezone
+yast-update-online-configuration
+yast-update-online
+yast-update
+yast-upgrade
+yast-users-system
+yast-users
+yast-vm-install
+yast-vm-migrate
+yast-vpn
+yast-wol"
+IKNS=$(echo $IKNS) ;
+
+for dydis in 22x22 32x32 48x48 ; do 
+
+
+mkdir -p usr/share/icons/oxygen/${dydis}/apps
+cp /usr/share/icons/oxygen/base/${dydis}/actions/roll.png                  usr/share/icons/oxygen/${dydis}/apps/yast-alternatives.png                   || true
+cp /usr/share/icons/oxygen/${dydis}/apps/apparmor_view_profile.png         usr/share/icons/oxygen/${dydis}/apps/yast-apparmor.png                       || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-kerberos.png                 usr/share/icons/oxygen/${dydis}/apps/yast-auth-client.png                    || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-heartbeat.png                usr/share/icons/oxygen/${dydis}/apps/yast-cluster.png                        || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-spanner.png                  usr/share/icons/oxygen/${dydis}/apps/yast-configuration-management.png       || true
+cp /usr/share/icons/hicolor/${dydis}/apps/yast.png                         usr/share/icons/oxygen/${dydis}/apps/yast-control-center.png                 || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-vm-install.png               usr/share/icons/oxygen/${dydis}/apps/yast-docker.png                         || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-iscsi-client.png             usr/share/icons/oxygen/${dydis}/apps/yast-drbd.png                           || true
+cp /usr/share/icons/hicolor/${dydis}/apps/fcoe.png                         usr/share/icons/oxygen/${dydis}/apps/yast-fcoe.png                           || true
+cp /usr/share/icons/oxygen/base/${dydis}/apps/preferences-desktop-font.png usr/share/icons/oxygen/${dydis}/apps/yast-fonts.png                          || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-live-install.png             usr/share/icons/oxygen/${dydis}/apps/yast-installation.png                   || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-messages.png                 usr/share/icons/oxygen/${dydis}/apps/yast-journal.png                        || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-ldap-server.png              usr/share/icons/oxygen/${dydis}/apps/yast-kerberos-server.png                || true
+cp /usr/share/icons/oxygen/${dydis}/apps/pattern-kernel.png                usr/share/icons/oxygen/${dydis}/apps/yast-kernel.png                         || true
+cp /usr/share/icons/oxygen/base/${dydis}/apps/preferences-system-login.png usr/share/icons/oxygen/${dydis}/apps/yast-ldap-kerberos.png                  || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-iscsi-server.png             usr/share/icons/oxygen/${dydis}/apps/yast-multipath.png                      || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-nfs_server.png               usr/share/icons/oxygen/${dydis}/apps/yast-nfs-server.png                     || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-nis_server.png               usr/share/icons/oxygen/${dydis}/apps/yast-nis-server.png                     || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-remote.png                   usr/share/icons/oxygen/${dydis}/apps/yast-remote-rdp.png                     || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-runlevel.png                 usr/share/icons/oxygen/${dydis}/apps/yast-services-manager.png               || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-update.png                   usr/share/icons/oxygen/${dydis}/apps/yast-update-online-configuration.png    || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-autoyast.png                 usr/share/icons/oxygen/${dydis}/apps/yast-update-online.png                  || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-cd_update.png                usr/share/icons/oxygen/${dydis}/apps/yast-upgrade.png                        || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-users.png                    usr/share/icons/oxygen/${dydis}/apps/yast-users-system.png                   || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-vm-management.png            usr/share/icons/oxygen/${dydis}/apps/yast-vm-migrate.png                     || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-device-tree.png              usr/share/icons/oxygen/${dydis}/apps/yast-vpn.png                            || true
+# Papildomas
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-software.png                 usr/share/icons/oxygen/${dydis}/apps/yast-software.png                       || true
+cp /usr/share/icons/hicolor/${dydis}/apps/yast.png                         usr/share/icons/oxygen/${dydis}/apps/yast.png                                || true
+cp /usr/share/icons/hicolor/${dydis}/apps/yast-vendor.png                  usr/share/icons/oxygen/${dydis}/apps/yast-vendor.png                         || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-heartbeat.png                usr/share/icons/oxygen/${dydis}/apps/yast-heartbeat.png                      || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-messages.png                 usr/share/icons/oxygen/${dydis}/apps/yast-messages.png                       || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-remotechooser.png            usr/share/icons/oxygen/${dydis}/apps/yast-remote-chooser.png                 || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-remoteinstall.png            usr/share/icons/oxygen/${dydis}/apps/yast-remote-install.png                 || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-hardware.png                 usr/share/icons/oxygen/${dydis}/apps/yast-hardware-group.png                 || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-high_availability.png        usr/share/icons/oxygen/${dydis}/apps/yast-high_availability-group.png        || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-network_services.png         usr/share/icons/oxygen/${dydis}/apps/yast-network-group.png                  || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-security.png                 usr/share/icons/oxygen/${dydis}/apps/yast-security-group.png                 || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-software.png                 usr/share/icons/oxygen/${dydis}/apps/yast-software-group.png                 || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-support.png                  usr/share/icons/oxygen/${dydis}/apps/yast-support-group.png                  || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-system.png                   usr/share/icons/oxygen/${dydis}/apps/yast-system-group.png                   || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-create-new-vm.png            usr/share/icons/oxygen/${dydis}/apps/yast-vm-group.png                       || true
+cp /usr/share/icons/oxygen/base/${dydis}/categories/applications-education-miscellaneous.png   usr/share/icons/oxygen/${dydis}/apps/yast-misc-group.png || true
+
+
+
+for IKN in $IKNS ; do
+    if  [ -f usr/share/icons/oxygen/${dydis}/apps/${IKN}.png ] ; then
+        echo "" > /dev/null ;
+    elif [ -f /usr/share/icons/oxygen/${dydis}/apps/${IKN}.png ] ; then
+        cp -f /usr/share/icons/oxygen/${dydis}/apps/${IKN}.png usr/share/icons/oxygen/${dydis}/apps/ ;
+    elif [ -f /usr/share/icons/hicolor/${dydis}/apps/${IKN}.png ] ; then
+        cp -f /usr/share/icons/hicolor/${dydis}/apps/${IKN}.png usr/share/icons/oxygen/${dydis}/apps/ ;
+    else
+         echo "Not found: $dydis ${IKN}"
+    fi
+done
+
+
+done         
+  
+# ls -1 usr/share/icons/*/*/*/pattern* | sed -re "s/^.*pattern-/pattern-/" | sed "s/.svg$/.png/" | sort -u
+  
+PTRNS="pattern-apparmor
+pattern-basis-addon
+pattern-basis-devel
+pattern-basis
+pattern-c-devel
+pattern-cli
+pattern-container
+pattern-documentation
+pattern-e17
+pattern-enlightenment
+pattern-games
+pattern-generic
+pattern-gnome-devel
+pattern-gnome-laptop
+pattern-gnome
+pattern-gnome-wayland
+pattern-gnome-xorg
+pattern-yast-devel
+pattern-java-devel
+pattern-kde4
+pattern-kde-addon
+pattern-kde-devel
+pattern-kde-laptop
+pattern-kde-pim
+pattern-kde
+pattern-kernel-devel
+pattern-kernel
+pattern-kubic
+pattern-LAMP
+pattern-laptop
+pattern-lxde
+pattern-lxqt
+pattern-mate
+pattern-mono
+pattern-multimedia
+pattern-network
+pattern-novell
+pattern-obs-devel
+pattern-office
+pattern-perl-devel
+pattern-python-devel
+pattern-public-cloud
+pattern-qt-devel
+pattern-rpm-devel
+pattern-ruby-devel
+pattern-server
+pattern-software-management
+pattern-tcltk-devel
+pattern-technical-writing
+pattern-tests
+pattern-web-devel
+pattern-x11
+pattern-xfce"
+  
+PTRNS=$(echo $PTRNS) ;
+
+for dydis in 22x22 32x32 48x48 ; do
+
+
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-remotechooser.png                 usr/share/icons/oxygen/${dydis}/apps/yast-remote-chooser.png                 || true
+cp /usr/share/icons/oxygen/${dydis}/apps/pattern-basis.png                      usr/share/icons/oxygen/${dydis}/apps/yast-remote-chooser.png                 || true
+cp /usr/share/icons/oxygen/${dydis}/apps/pattern-basis.png                      usr/share/icons/oxygen/${dydis}/apps/pattern-basis-addon.png                 || true
+cp /usr/share/icons/oxygen/${dydis}/apps/pattern-basis-devel.png                usr/share/icons/oxygen/${dydis}/apps/pattern-c-devel.png                     || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-scripts.png                       usr/share/icons/oxygen/${dydis}/apps/pattern-cli.png                         || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-create-new-vm.png                 usr/share/icons/oxygen/${dydis}/apps/pattern-container.png                   || true
+cp /usr/share/icons/hicolor/${dydis}/apps/pattern-enlightenment.png             usr/share/icons/oxygen/${dydis}/apps/pattern-e17.png                         || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-joystick.png                      usr/share/icons/oxygen/${dydis}/apps/pattern-games.png                       || true
+cp /usr/share/icons/hicolor/${dydis}/apps/pattern-gnome.png                     usr/share/icons/oxygen/${dydis}/apps/pattern-gnome-wayland.png               || true
+cp /usr/share/icons/hicolor/${dydis}/apps/pattern-gnome.png                     usr/share/icons/oxygen/${dydis}/apps/pattern-gnome-xorg.png                  || true
+cp /usr/share/icons/hicolor/${dydis}/apps/yast.png                              usr/share/icons/oxygen/${dydis}/apps/pattern-yast-devel.png                  || true
+cp /usr/share/icons/oxygen/base/${dydis}/apps/java.png                          usr/share/icons/oxygen/${dydis}/apps/pattern-java-devel.png                  || true
+cp /usr/share/icons/oxygen/${dydis}/apps/pattern-kde.png                        usr/share/icons/oxygen/${dydis}/apps/pattern-kde-addon.png                   || true
+cp /usr/share/icons/oxygen/${dydis}/apps/pattern-kde.png                        usr/share/icons/oxygen/${dydis}/apps/pattern-kde-pim.png                     || true
+cp  usr/share/icons/oxygen/${dydis}/apps/yast-kernel.png                        usr/share/icons/oxygen/${dydis}/apps/pattern-kernel-devel.png                || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-create-new-vm.png                 usr/share/icons/oxygen/${dydis}/apps/pattern-kubic.png                       || true
+#Not found: 32x32 pattern-lxqt                                                
+cp /usr/share/icons/oxygen/base/${dydis}/categories/applications-multimedia.png usr/share/icons/oxygen/${dydis}/apps/pattern-multimedia.png                  || true
+#Not found: 32x32 pattern-obs-devel                                           
+cp /usr/share/icons/oxygen/base/${dydis}/categories/applications-office.png     usr/share/icons/oxygen/${dydis}/apps/pattern-office.png                      || true
+cp /usr/share/icons/oxygen/${dydis}/apps/pattern-basis-devel.png                usr/share/icons/oxygen/${dydis}/apps/pattern-perl-devel.png                  || true
+cp /usr/share/icons/oxygen/${dydis}/apps/pattern-basis-devel.png                usr/share/icons/oxygen/${dydis}/apps/pattern-python-devel.png                || true
+cp /usr/share/icons/oxygen/${dydis}/apps/pattern-basis-devel.png                usr/share/icons/oxygen/${dydis}/apps/pattern-qt-devel.png                    || true
+cp /usr/share/icons/oxygen/${dydis}/apps/pattern-basis-devel.png                usr/share/icons/oxygen/${dydis}/apps/pattern-ruby-devel.png                  || true
+cp /usr/share/icons/oxygen/${dydis}/apps/pattern-basis-devel.png                usr/share/icons/oxygen/${dydis}/apps/pattern-tcltk-devel.png                 || true
+cp /usr/share/icons/oxygen/${dydis}/apps/pattern-basis-devel.png                usr/share/icons/oxygen/${dydis}/apps/pattern-rpm-devel.png                   || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-tftp-server.png                   usr/share/icons/oxygen/${dydis}/apps/pattern-server.png                      || true
+cp /usr/share/icons/oxygen/base/${dydis}/categories/applications-office.png     usr/share/icons/oxygen/${dydis}/apps/pattern-technical-writing.png           || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-sw_single.png                     usr/share/icons/oxygen/${dydis}/apps/pattern-software-management.png         || true
+cp /usr/share/icons/oxygen/${dydis}/apps/yast-report.png                        usr/share/icons/oxygen/${dydis}/apps/pattern-tests.png                       || true
+cp /usr/share/icons/oxygen/${dydis}/apps/suse.png                               usr/share/icons/oxygen/${dydis}/apps/suse.png                                || true
+cp /usr/share/icons/oxygen/base/${dydis}/categories/applications-development-web.png usr/share/icons/oxygen/${dydis}/apps/pattern-web-devel.png                || true
+
+    for IKN in $PTRNS ; do
+        if  [ -f usr/share/icons/oxygen/${dydis}/apps/${IKN}.png ] ; then
+            echo "Yra $dydis ${IKN} " > /dev/null ;
+        elif [ -f /usr/share/icons/oxygen/${dydis}/apps/${IKN}.png ] ; then
+            cp -f /usr/share/icons/oxygen/${dydis}/apps/${IKN}.png usr/share/icons/oxygen/${dydis}/apps/ ;
+        elif [ -f /usr/share/icons/hicolor/${dydis}/apps/${IKN}.png ] ; then
+            cp -f /usr/share/icons/hicolor/${dydis}/apps/${IKN}.png usr/share/icons/oxygen/${dydis}/apps/ ;
+        else
+             echo "Not found: $dydis ${IKN}"
+        fi
+    done
+done

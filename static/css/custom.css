@@ -1,0 +1,31 @@
+.logo__text {
+    text-transform: none;
+}
+.menu__item {
+    position: relative;
+}
+.submenu__list {
+    list-style: none;
+    background: #2a2a2a;
+    display: none;
+    position: absolute;
+    top: auto;
+    width: auto;
+    max-width: 400px;
+    z-index: 1;
+}
+.menu__item:hover .submenu__list {
+    display: block;
+}
+.submenu__link {
+    display: block;
+    padding: 10px 15px;
+    padding: .625rem .9375rem;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+.submenu__item--active .submenu__link {
+    color: #0d8726;
+}
