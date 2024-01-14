@@ -90,7 +90,7 @@ menus:
 markup:
     goldmark:
         renderer:
-            unsafe: true
+            unsafe: true # Allow HTML tags in MarkDown
         parser:
             attribute:
                 block: true
