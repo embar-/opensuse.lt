@@ -34,7 +34,58 @@ menus:
           params:
               rel: external
               target: _blank
-
+        - name: Sistemos diegimas
+          pageRef: /diegimas
+          parent: Naujienos
+          weight: 10
+        - name: Programos
+          pageRef: /programos
+          parent: Naujienos
+          weight: 20
+        - name: Susiję su aparatine įranga
+          pageRef: /geležis
+          parent: Naujienos
+          weight: 30
+        - name: Nesklandumų sprendimas
+          pageRef: /klaidos
+          parent: Naujienos
+          weight: 40
+        - name: Internetas ir tinklas
+          pageRef: /http
+          parent: Naujienos
+          weight: 50
+        - name: Saugumas
+          pageRef: /saugumas
+          parent: Naujienos
+          weight: 60
+        - name: Išvaizdos keitimas
+          pageRef: /isvaizdos-keitimas
+          parent: Naujienos
+          weight: 70
+        - name: Įvairios pamokos
+          pageRef: /ivairus
+          parent: Naujienos
+          weight: 80
+        - name: Vertimas / lokalizavimas
+          pageRef: /vertimas-lokalizavimas
+          parent: Naujienos
+          weight: 90
+        - name: openSUSE įvykiai
+          pageRef: /opensuseivykiai
+          parent: Naujienos
+          weight: 100
+        - name: Skelbimai
+          pageRef: /skelbimai
+          parent: Naujienos
+          weight: 110
+        - name: Svetainės
+          pageRef: /svetainės
+          parent: Naujienos
+          weight: 120
+        - name: Kita
+          pageRef: /kita
+          parent: Naujienos
+          weight: 130
 #uglyURLs: true # uncomment to use .html suffix in URLs instead of a trailing slash
 markup:
     goldmark:
