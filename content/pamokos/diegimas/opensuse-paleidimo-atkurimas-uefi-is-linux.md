@@ -6,7 +6,7 @@ date: "2017-08-08"
 lastmod: "2017-08-08"
 author:  "embar"
 ---
-_Linux_ paleidimo atkūrimas yra kitoks sistemose, kuriose naudojama UEFI/EFI, nei tose, kuriose ši kompiuterio paleidimo sistema nėra naudojama. **Patarimai šiame straipsnelyje tinka tik tuo atveju, jei kompiuterio paleidimui naudojama UEFI/EFI**, tad prieš naudojantis šio straipsnelio patarimais, primygtinai patariame perskaityti visą straipsnelį apie [openSUSE sistemos paleidimą per UEFI](index.php/pamokos/10-diegimas/220-opensuse-paleidimas-per-uefi-meniu).
+_Linux_ paleidimo atkūrimas yra kitoks sistemose, kuriose naudojama UEFI/EFI, nei tose, kuriose ši kompiuterio paleidimo sistema nėra naudojama. **Patarimai šiame straipsnelyje tinka tik tuo atveju, jei kompiuterio paleidimui naudojama UEFI/EFI**, tad prieš naudojantis šio straipsnelio patarimais, primygtinai patariame perskaityti visą straipsnelį apie [openSUSE sistemos paleidimą per UEFI]({{< ref "/pamokos/diegimas/opensuse-paleidimas-per-uefi-meniu" >}}).
 
 Visos šiame straipsnelyje pateiktos komandos turi būti vykdomos _Linux_ komandinėje eilutėje (pvz., terminalo programoje _Konsole_) administratoriaus (root) teisėmis. Jei terminalo programą atvėrėte kaip paprastas naudotojas, administratoriaus teises įgausite įvykdę (po to reikės įvesti _root_ naudotojo slaptažodį):
 

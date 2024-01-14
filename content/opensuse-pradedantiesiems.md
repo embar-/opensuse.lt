@@ -27,24 +27,24 @@ Dauguma žemiau pateiktų nuorodų yra iš [neoficialios _openSUSE_ vikiknygos](
 
 *   [openSUSE savybės](http://lt.wikibooks.org/wiki/Linux_%C5%BEaliems:_openSUSE/openSUSE_pagrindai)
 
-[**Diegimas**](index.php/pamokos/10-diegimas)
+[**Diegimas**]({{< ref "/pamokos/diegimas" >}})
 
 *   [Iš kur gauti openSUSE ISO atvaizdį?](http://lt.wikibooks.org/wiki/Linux_%C5%BEaliems:_openSUSE/I%C5%A1_kur_gauti_openSUSE%3F)  
     *   [http://software.opensuse.org](http://software.opensuse.org) – oficiali versija
     *   [http://download.vikis.lt/lietukas](http://download.vikis.lt/lietukas) – lietuviška atmaina
 *   [ISO įrašymas į atmintuką](https://lt.wikibooks.org/wiki/Linux_%C5%BEaliems:_openSUSE/ISO_atvaizd%C5%BEio_%C4%AFra%C5%A1ymas#Ra.C5.A1ymas_.C4.AF_USB_laikmen.C4.85)  
     *   [Windows sistemoje](https://lt.wikibooks.org/wiki/Linux_%C5%BEaliems:_openSUSE/ISO_atvaizd%C5%BEio_%C4%AFra%C5%A1ymas#Windows_operacin.C4.97je_sistemoje)
-        *   [išlaikant atmintuko turinį](index.php/pamokos/10-diegimas/139-opensuse-liveusb-krimas-naudojant-windows-sistem-ilaikant-turin) (jei nėra naudojama UEFI)
+        *   [išlaikant atmintuko turinį]({{< ref "/pamokos/diegimas/opensuse-liveusb-krimas-naudojant-windows-sistem-ilaikant-turin" >}}) (jei nėra naudojama UEFI)
         *   [pašalinant atmintuko turinį](https://lt.wikibooks.org/wiki/Linux_%C5%BEaliems:_openSUSE/ISO_atvaizd%C5%BEio_%C4%AFra%C5%A1ymas#I.C5.A1trinant_vis.C4.85_sen.C4.85_USB_laikmenos_turin.C4.AF)
     *   [Linux sistemoje](https://lt.wikibooks.org/wiki/Linux_%C5%BEaliems:_openSUSE/ISO_atvaizd%C5%BEio_%C4%AFra%C5%A1ymas#Linux_operacin.C4.97je_sistemoje)
-        *   [išlaikant jo turinį](index.php/pamokos/10-diegimas/122-liveusb-krimas-su-live-usb-gui-live-fat-usb-neprarandant-galimybs-naudotis-atmintuko-atmintimi)
-        *   [pašalinant jo turinį](index.php/pamokos/10-diegimas/77-liveusb-gamyba-linux-sistemoje)
+        *   [išlaikant jo turinį]({{< ref "/pamokos/diegimas/liveusb-krimas-su-live-usb-gui-live-fat-usb-neprarandant-galimybs-naudotis-atmintuko-atmintimi" >}})
+        *   [pašalinant jo turinį]({{< ref "/pamokos/diegimas/liveusb-gamyba-linux-sistemoje" >}})
 
 *   Diegimas šalia „_Microsoft Windows“_ operacinės sistemos
-    *   [Windows NTFS disko skaidinio mažinimas](index.php/pamokos/10-diegimas/229-pasiruosimas-linux-diegimui-salia-windows-windows-ntfs-disko-skaidinio-mazinimas)
-    *   [„Instlux“ pagalbinė programa „Windows“ sistemai](index.php/pamokos/10-diegimas/148-instlux-diegimo-laikmenos-paleidimas-per-windows-sistemos-paleidykl)
+    *   [Windows NTFS disko skaidinio mažinimas]({{< ref "/pamokos/diegimas/pasiruosimas-linux-diegimui-salia-windows-windows-ntfs-disko-skaidinio-mazinimas" >}})
+    *   [„Instlux“ pagalbinė programa „Windows“ sistemai]({{< ref "/pamokos/diegimas/instlux-diegimo-laikmenos-paleidimas-per-windows-sistemos-paleidykl" >}})
 
-*   [Disko skaidinių tvarkymas](index.php/pamokos/10-diegimas/73-disko-tvarkymas-diegiant-opensuse-linux-skaidini)
+*   [Disko skaidinių tvarkymas]({{< ref "/pamokos/diegimas/disko-tvarkymas-diegiant-opensuse-linux-skaidini" >}})
 
 **Perėjimas iš kitų operacinių sistemų:**
 
@@ -62,11 +62,11 @@ Dauguma žemiau pateiktų nuorodų yra iš [neoficialios _openSUSE_ vikiknygos](
 
 **Įdiegtos sistemos paleidimo atkūrimas**
 
-*   Kai kompiuteris operacines sistemas paleidžia [per naują UEFI paleidyklę](index.php/pamokos/10-diegimas/220-opensuse-paleidimas-per-uefi-meniu)
-    *   [Taisymas iš Windows sistemos](index.php/pamokos/10-diegimas/221-opensuse-paleidimo-atkurimas-uefi-windows-easyuefi)
-    *   [Taisymas iš Linux sistemos](index.php/pamokos/10-diegimas/222-opensuse-paleidimo-atkurimas-uefi-is-linux)
+*   Kai kompiuteris operacines sistemas paleidžia [per naują UEFI paleidyklę]({{< ref "/pamokos/diegimas/opensuse-paleidimas-per-uefi-meniu" >}})
+    *   [Taisymas iš Windows sistemos]({{< ref "/pamokos/diegimas/opensuse-paleidimo-atkurimas-uefi-windows-easyuefi" >}})
+    *   [Taisymas iš Linux sistemos]({{< ref "/pamokos/diegimas/opensuse-paleidimo-atkurimas-uefi-is-linux" >}})
 *   Kai kompiuteris operacines sistemas paleidžia senuoju tradiciniu būdu  
-    *   [Taisymas iš Windows sistemos](index.php/pamokos/10-diegimas/43-linux-paleidimas-windows-diegimo)
+    *   [Taisymas iš Windows sistemos]({{< ref "/pamokos/diegimas/linux-paleidimas-windows-diegimo" >}})
 
 * * *
 

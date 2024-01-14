@@ -13,7 +13,7 @@ Norėtumėte pabandyti openSUSE paleisti greičiau?
 
 Prieš išjungiant pravartu kur nors pasižymėti šiuo metu įgalintas paslaugas (nors galbūt šiuo metu nepaleistas). Nepatartina uždrausti acpid, dbus, earlysyslog, earlyxdm, kbd, syslog, xdm.
 
-Jei naudojate openSUSE Leap ar naujesnę versiją, skaitykite apie sistemos paleidimo trukmės analizę [čia](index.php/pamokos/20-programos/213-sistemos-paleidimo-trukmes-analize).
+Jei naudojate openSUSE Leap ar naujesnę versiją, skaitykite apie sistemos paleidimo trukmės analizę [čia]({{< ref "/pamokos/programos/sistemos-paleidimo-trukmes-analize" >}}).
 
 Jei naudojate _openSUSE 13.1_ ar senesnę versiją, sistemos paleidimo procesą įvertinti padės **bootchart** programa (tolesnės instrukcijos netinka naujesnėms versijoms).
 

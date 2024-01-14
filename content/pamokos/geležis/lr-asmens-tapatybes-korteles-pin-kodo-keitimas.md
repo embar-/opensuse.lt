@@ -6,7 +6,7 @@ date: "2017-08-16"
 lastmod: "2017-08-17"
 author:  "embar"
 ---
-Visų pirma kompiuteryje turi būti įdiegta programinė įranga, apie kurią jau rašyta straipsnelyje „[Asmens tapatybės kortelė ir elektroninis parašas](index.php/pamokos/8-geleis/164-asmens-tapatybs-kortel-ir-elektroninis-paraas)“. Be to, reikalinga _pkcs11-tool_ programa iš [opensc](https://software.opensuse.org/package/opensc) paketo.
+Visų pirma kompiuteryje turi būti įdiegta programinė įranga, apie kurią jau rašyta straipsnelyje „[Asmens tapatybės kortelė ir elektroninis parašas]({{< ref "/pamokos/geležis/asmens-tapatybs-kortel-ir-elektroninis-paraas" >}})“. Be to, reikalinga _pkcs11-tool_ programa iš [opensc](https://software.opensuse.org/package/opensc) paketo.
 
 Jei Lietuvos Respublikos asmens tapatybės kortelėje norite pasikeisti PIN kodą, komandinėje eilutėje (konsolės/terminalo programoje) įvykdykite:
 

@@ -5,14 +5,15 @@ title: openSUSE.lt
 description: openSUSE Linux naujienos, pagalba nuo 2002 m. spalio 25 d.
 theme: mainroad
 paginate: 3
+#refLinksErrorLevel: WARNING    # Issue a warning instead of error when encountering invalid ref/relref
 menus:
     main:
         - name: Naujienos
           pageRef: /
           weight: 10
-#        - name: Pamokos
-#          url: /pamokos
-#          weight: 20
+        - name: Pamokos
+          url: /pamokos
+          weight: 20
         - name: Parsisiųsti „openSUSE“
           url: https://software.opensuse.org/?locale=lt
           weight: 30
@@ -34,58 +35,61 @@ menus:
           params:
               rel: external
               target: _blank
-        - name: Sistemos diegimas
-          pageRef: /diegimas
+
+        - name: openSUSE įvykiai
+          pageRef: /opensuse-įvykiai
           parent: Naujienos
           weight: 10
-        - name: Programos
-          pageRef: /programos
-          parent: Naujienos
-          weight: 20
-        - name: Susiję su aparatine įranga
-          pageRef: /geležis
-          parent: Naujienos
-          weight: 30
-        - name: Nesklandumų sprendimas
-          pageRef: /klaidos
-          parent: Naujienos
-          weight: 40
-        - name: Internetas ir tinklas
-          pageRef: /http
-          parent: Naujienos
-          weight: 50
-        - name: Saugumas
-          pageRef: /saugumas
-          parent: Naujienos
-          weight: 60
-        - name: Išvaizdos keitimas
-          pageRef: /isvaizdos-keitimas
-          parent: Naujienos
-          weight: 70
-        - name: Įvairios pamokos
-          pageRef: /ivairus
-          parent: Naujienos
-          weight: 80
-        - name: Vertimas / lokalizavimas
-          pageRef: /vertimas-lokalizavimas
-          parent: Naujienos
-          weight: 90
-        - name: openSUSE įvykiai
-          pageRef: /opensuseivykiai
-          parent: Naujienos
-          weight: 100
         - name: Skelbimai
           pageRef: /skelbimai
           parent: Naujienos
-          weight: 110
+          weight: 20
         - name: Svetainės
           pageRef: /svetainės
           parent: Naujienos
-          weight: 120
+          weight: 30
         - name: Kita
           pageRef: /kita
           parent: Naujienos
-          weight: 130
+          weight: 40
+
+        - name: Sistemos diegimas
+          pageRef: /pamokos/diegimas
+          parent: Pamokos
+          weight: 10
+        - name: Programos
+          pageRef: /pamokos/programos
+          parent: Pamokos
+          weight: 20
+        - name: Susiję su aparatine įranga
+          pageRef: /pamokos/geležis
+          parent: Pamokos
+          weight: 30
+        - name: Nesklandumų sprendimas
+          pageRef: /pamokos/klaidos
+          parent: Pamokos
+          weight: 40
+        - name: Internetas ir tinklas
+          pageRef: /pamokos/http
+          parent: Pamokos
+          weight: 50
+        - name: Saugumas
+          pageRef: /pamokos/saugumas
+          parent: Pamokos
+          weight: 60
+        - name: Išvaizdos keitimas
+          pageRef: /pamokos/isvaizdos-keitimas
+          parent: Pamokos
+          weight: 70
+        - name: Įvairios pamokos
+          pageRef: /pamokos/ivairus
+          parent: Pamokos
+          weight: 80
+        - name: Vertimas / lokalizavimas
+          pageRef: /pamokos/vertimas-lokalizavimas
+          parent: Pamokos
+          weight: 90
+
 #uglyURLs: true # uncomment to use .html suffix in URLs instead of a trailing slash
 markup:
     goldmark:
@@ -117,19 +121,10 @@ params:
         laukiame-straipsnelių:
             cached: true
     mainSections:
-        - diegimas
-        - geležis
-        - http
-        - isvaizdos-keitimas
-        - ivairus
         - kita
-        - klaidos
-        - opensuseivykiai
-        - programos
-        - saugumas
+        - opensuse-įvykiai
         - skelbimai
         - svetainės
-        - vertimas-lokalizavimas
     dateFormat: :date_long
     post_meta:
         - author

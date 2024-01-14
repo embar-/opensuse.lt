@@ -6,7 +6,7 @@ date: "2022-01-06"
 lastmod: "2022-01-06"
 author:  "embar"
 ---
-„Lietukas“ atnaujintas „[openSUSE Leap 15.3](index.php/22-opensuseivykiai/285-opensuse-jump-su-sukompiliuotais-paketais-is-suse-linux-enterprise-pasirodys-kaip-opensuse-leap-15-3)“ pagrindu, tad paveldėjo joje esančius paketus, įskaitant _KDE Plasma 5.18 LTS_ darbalaukio aplinką. Kiti „Lietuko“ pokyčiai nuo 15.2 versijos tėra labai nežymūs. _Lietukas_ yra ta pati _openSUSE_ sistema, tad gaus visus atitinkamus _openSUSE Leap 15.3_ versijos atnaujinimus ir jį bus galima vėliau atnaujinti iki kitų _openSUSE_ versijų.
+„Lietukas“ atnaujintas „[openSUSE Leap 15.3]({{< ref "/opensuse-įvykiai/opensuse-jump-su-sukompiliuotais-paketais-is-suse-linux-enterprise-pasirodys-kaip-opensuse-leap-15-3" >}})“ pagrindu, tad paveldėjo joje esančius paketus, įskaitant _KDE Plasma 5.18 LTS_ darbalaukio aplinką. Kiti „Lietuko“ pokyčiai nuo 15.2 versijos tėra labai nežymūs. _Lietukas_ yra ta pati _openSUSE_ sistema, tad gaus visus atitinkamus _openSUSE Leap 15.3_ versijos atnaujinimus ir jį bus galima vėliau atnaujinti iki kitų _openSUSE_ versijų.
 
 Išbandykite parsisiuntę iš [www.lietukas.lt](http://www.lietukas.lt) svetainės!
 

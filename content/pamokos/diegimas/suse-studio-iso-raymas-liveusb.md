@@ -93,7 +93,7 @@ Jei norite redaguoti administratoriaus teisėmis su _gedit_, tuomet įvykdykite:
 
 Dabar galima pabandyti iš naujo paleisti kompiuterį iš savo atmintuko. Tam gali tekti pakeisti BIOS nuostatas. Neišjungiant kompiuterio, LiveUSB galima išbandyti su **qemu** programa. Šiuo atveju reiktų ištraukti ir vėl įkišti USB atmintinę, administratoriaus teisėmis įvykdyti **qemu /dev/sdb**.
 
-Beje, toks patobulintas initrd pirmiausia bandys pasileisti kaip LiveUSB, o jei nepavyks – kaip LiveCD, todėl šį initrd galima nukopijuoti vietoj senojo į ISO atvaizdį (pasinaudojus ISOmaster programa), po to .iso [paversti hibrininiu](index.php/pamokos/10-diegimas/33-livecd-iso-atvaizdio-pavertimas-hibridiniu). Toks patobulintas ISO atvaizdis tinkamas naudoti tiek rašymui į USB atmintinę su ImageWriter ar dd komanda, tiek rašymui į CD/DVD.
+Beje, toks patobulintas initrd pirmiausia bandys pasileisti kaip LiveUSB, o jei nepavyks – kaip LiveCD, todėl šį initrd galima nukopijuoti vietoj senojo į ISO atvaizdį (pasinaudojus ISOmaster programa), po to .iso [paversti hibrininiu]({{< ref "/pamokos/diegimas/livecd-iso-atvaizdio-pavertimas-hibridiniu" >}}). Toks patobulintas ISO atvaizdis tinkamas naudoti tiek rašymui į USB atmintinę su ImageWriter ar dd komanda, tiek rašymui į CD/DVD.
 
 Scenarijus išbandytas openSUSE 11.3 sistemoje su Lietuku 11.3.4.
 

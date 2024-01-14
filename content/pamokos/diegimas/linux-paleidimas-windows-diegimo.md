@@ -5,7 +5,7 @@ tags: [  ]
 date: "2011-01-30"
 lastmod: "2017-08-08"
 ---
-Po _Windows_ diegimo arba dėl kitų nenumatytų priežasčių dažnai nebepavyksta paleisti _Linux_ sistemos. **Patarimai šiame straipsnelyje tinka tik tuo atveju, jei kompiuterio paleidimui nėra naudojama UEFI/EFI** (greičiausiai tiks seniems kompiuteriams, kuriuose įdiegėte _Windows 7, XP_ ar senesnę versiją, tačiau kartais gali tikti ir naujesniems kompiuteriams su naujesnėmis Windows versijomis). _Linux_ paleidimo atkūrimas yra kitoks sistemose, kuriose naudojama UEFI/EFI, nei tose, kuriose ši kompiuterio paleidimo sistema nėra naudojama. Jei dvejojate, prieš naudodamiesi šio straipsnelio patarimais, peržiūrėkite kompiuterio su UEFI požymius straipsnelyje apie [openSUSE sistemos paleidimą per UEFI](index.php/pamokos/10-diegimas/220-opensuse-paleidimas-per-uefi-meniu).
+Po _Windows_ diegimo arba dėl kitų nenumatytų priežasčių dažnai nebepavyksta paleisti _Linux_ sistemos. **Patarimai šiame straipsnelyje tinka tik tuo atveju, jei kompiuterio paleidimui nėra naudojama UEFI/EFI** (greičiausiai tiks seniems kompiuteriams, kuriuose įdiegėte _Windows 7, XP_ ar senesnę versiją, tačiau kartais gali tikti ir naujesniems kompiuteriams su naujesnėmis Windows versijomis). _Linux_ paleidimo atkūrimas yra kitoks sistemose, kuriose naudojama UEFI/EFI, nei tose, kuriose ši kompiuterio paleidimo sistema nėra naudojama. Jei dvejojate, prieš naudodamiesi šio straipsnelio patarimais, peržiūrėkite kompiuterio su UEFI požymius straipsnelyje apie [openSUSE sistemos paleidimą per UEFI]({{< ref "/pamokos/diegimas/opensuse-paleidimas-per-uefi-meniu" >}}).
 
 **A.** Viena išeitis – įdiegti GRUB pasinaudojant Windows operacine sistema.
 

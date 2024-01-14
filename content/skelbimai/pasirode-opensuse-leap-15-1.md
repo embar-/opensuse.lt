@@ -8,7 +8,7 @@ author:  "embar"
 ---
  ![](https://en.opensuse.org/images/9/98/Leap15.1Branding.jpeg)
 
-2019 m. gegužės 22 d. išleidžiama _openSUSE Leap 15.1_ versija. Šios versijos pagrindas yra toks pat kaip ir _SUSE Linux Enterprise 15 Service Pack 1 (SLE 15 SP1)_. Atnaujinimas nuo beveik lygiai prieš metus pasirodžiusios [_openSUSE Leap 15.0_](index.php/22-opensuseivykiai/243-pasirode-opensuse-leap-15-0) versijos iki 15.1 versijos turėtų būti saugus, sklandus, beveik nepastebimas. Skirtumas tarp pilnai atnaujintos _openSUSE 15.0_ ir _15.1_ versijos visai mažas, dauguma paprastų naudotojų jo greičiausiai visai nepajustų, nes programinės įrangos paketų versijos daugeliu atveju išlieka tokios pačios, pavyzdžiui:
+2019 m. gegužės 22 d. išleidžiama _openSUSE Leap 15.1_ versija. Šios versijos pagrindas yra toks pat kaip ir _SUSE Linux Enterprise 15 Service Pack 1 (SLE 15 SP1)_. Atnaujinimas nuo beveik lygiai prieš metus pasirodžiusios [_openSUSE Leap 15.0_]({{< ref "/opensuse-įvykiai/pasirode-opensuse-leap-15-0" >}}) versijos iki 15.1 versijos turėtų būti saugus, sklandus, beveik nepastebimas. Skirtumas tarp pilnai atnaujintos _openSUSE 15.0_ ir _15.1_ versijos visai mažas, dauguma paprastų naudotojų jo greičiausiai visai nepajustų, nes programinės įrangos paketų versijos daugeliu atveju išlieka tokios pačios, pavyzdžiui:
 
 *   Linux branduolys tos pačios versijos – 4.12 (palyginimui – _openSUSE Tumbleweed_ šiai dienai siūlo 5.1 versiją),
 *   Darbalaukių versijos nepasikeitė – KDE Plasma 5.12 LTS, GNOME 3.26, XFCE 4.12.1, Enlightenment 22.3, LxQt 0.12,
@@ -28,7 +28,7 @@ Kai kurie pokyčiai liečia eilinius naudotojus:
 *   KDE Frameworks versija atnaujinta iki 5.55 (nuo 5.45 versijos, buvusios _openSUSE Leap 15.0_ sistemoje; palyginimui – _openSUSE Tumbleweed_ šiai dienai siūlo 5.58).
 *   YaST nebeturi modulio šriftų atvaizdavimo tvarkymui visos sistemos lygiu.
 *   YaST turėtų geriau atrodyti 4k (HiDPI) ekranuose.
-*   [Perpiešti](index.php/22-opensuseivykiai/253-yast2-valdymo-centras-su-breeze-apivavidalinimo-zenkliukais) numatytieji YaST valdymo centro ženkliukai – dabar jie gerokai supaprastinti, plokštesni, juose mažiau spalvų (ar gražiau? – skonio reikalas).
+*   [Perpiešti]({{< ref "/opensuse-įvykiai/yast2-valdymo-centras-su-breeze-apivavidalinimo-zenkliukais" >}}) numatytieji YaST valdymo centro ženkliukai – dabar jie gerokai supaprastinti, plokštesni, juose mažiau spalvų (ar gražiau? – skonio reikalas).
 
 Naujovių/galimybių gali tikėtis ir sistemų administratoriai, programuotojai. Pavyzdžiui,
 

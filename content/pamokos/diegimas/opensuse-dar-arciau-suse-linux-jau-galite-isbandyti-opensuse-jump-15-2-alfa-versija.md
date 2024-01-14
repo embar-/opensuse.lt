@@ -6,7 +6,7 @@ date: "2020-08-29"
 lastmod: "2020-08-29"
 author:  "embar"
 ---
-Bandomasis [openSUSE Jump](index.php/22-opensuseivykiai/271-planuojama-opensuse-jump-versija-kuri-gaus-jau-sukompiuliuotus-paketus-is-suse-linux-enterprise-ir-bus-su-ja-suderinami) projektas yra _openSUSE Leap_ ir _SUSE Linux_ hibridas ta prasme, kad gauna sukompiliuotus paketus iš _SUSE Linux Enterprise_ ir bus su ja suderinamas. Jau galite [parsisiųsti](http://download.opensuse.org/distribution/jump/15.2/) ir išbandyti _openSUSE Jump 15.2_ alfa versiją.
+Bandomasis [openSUSE Jump]({{< ref "/opensuse-įvykiai/planuojama-opensuse-jump-versija-kuri-gaus-jau-sukompiuliuotus-paketus-is-suse-linux-enterprise-ir-bus-su-ja-suderinami" >}}) projektas yra _openSUSE Leap_ ir _SUSE Linux_ hibridas ta prasme, kad gauna sukompiliuotus paketus iš _SUSE Linux Enterprise_ ir bus su ja suderinamas. Jau galite [parsisiųsti](http://download.opensuse.org/distribution/jump/15.2/) ir išbandyti _openSUSE Jump 15.2_ alfa versiją.
 
 Daugiau informacijos anglų kalba:
 

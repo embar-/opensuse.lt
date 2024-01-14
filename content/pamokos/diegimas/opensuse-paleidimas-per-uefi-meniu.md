@@ -40,7 +40,7 @@ UEFI paleidyklė pirmiausia bando automatiškai paleisti aukštesnio prioriteto 
       
     Deja, VirtualBox programos valdoma virtuali mašina neatveria jokios UEFI įrangos parametrų konfigūracijos, bet gal tikroje mašinoje pavyktų... Be to, kadangi UEFI parametrai/kintamieji saugomi NVRAM atmintyje (o ne standžiajame diske), VirtualBox negali prisiminti UEFI meniu pakeitimų pilnai išjungus virtualią mašiną ir vėl įjungus, tačiau gali prisiminti UEFI pakeitimus tarp kompiuterio paleidimų iš naujo.
 
-Jei nepavyko rasti _openSUSE_ įrašo tarp UEFI meniu įrašų, tačiau kompiuteryje lygiagrečiai įdiegta _Windows_ sistema, tuomet galite pabandyti įtraukti _openSUSE Linux_ paleidimo įrašą paleistoje [Linux](index.php/pamokos/10-diegimas/222-opensuse-paleidimo-atkurimas-uefi-is-linux) arba [_Windows_](index.php/pamokos/10-diegimas/221-opensuse-paleidimo-atkurimas-uefi-windows-easyuefi) sistemoje.
+Jei nepavyko rasti _openSUSE_ įrašo tarp UEFI meniu įrašų, tačiau kompiuteryje lygiagrečiai įdiegta _Windows_ sistema, tuomet galite pabandyti įtraukti _openSUSE Linux_ paleidimo įrašą paleistoje [Linux]({{< ref "/pamokos/diegimas/opensuse-paleidimo-atkurimas-uefi-is-linux" >}}) arba [_Windows_]({{< ref "/pamokos/diegimas/opensuse-paleidimo-atkurimas-uefi-windows-easyuefi" >}}) sistemoje.
 
 Daugiau informacijos rasite:
 

@@ -6,7 +6,7 @@ date: "2020-10-22"
 lastmod: "2020-10-22"
 author:  "embar"
 ---
-Anksčiau [planuota](index.php/22-opensuseivykiai/271-planuojama-opensuse-jump-versija-kuri-gaus-jau-sukompiuliuotus-paketus-is-suse-linux-enterprise-ir-bus-su-ja-suderinami), kad _openSUSE Jump,_ kuri gautų jau sukompiliuotus paketus iš _SUSE Linux Enterprise_ (SLE) ir būtų su ja suderinama, pasirodytų dar lygiagrečiai kaip openSUSE Leap 15.2.1, tačiau greičiausiai taip nebus ir toks modelis pritaikysimas tik 2021 m. pasirodysiančioje openSUSE Leap 15.3 versijoje. Tuomet tiek _openSUSE Leap_ naudotojai galės gerokai įsidiegti SLE sistemai skirtus paketus, o SLE naudotojai – įsidiegti _openSUSE Leap_ sistemai skirtuosius paketus. Be to, dėl tokio palaikymo lygio _openSUSE_ taps tiesiogine _CentOS_ konkurente.
+Anksčiau [planuota]({{< ref "/opensuse-įvykiai/planuojama-opensuse-jump-versija-kuri-gaus-jau-sukompiuliuotus-paketus-is-suse-linux-enterprise-ir-bus-su-ja-suderinami" >}}), kad _openSUSE Jump,_ kuri gautų jau sukompiliuotus paketus iš _SUSE Linux Enterprise_ (SLE) ir būtų su ja suderinama, pasirodytų dar lygiagrečiai kaip openSUSE Leap 15.2.1, tačiau greičiausiai taip nebus ir toks modelis pritaikysimas tik 2021 m. pasirodysiančioje openSUSE Leap 15.3 versijoje. Tuomet tiek _openSUSE Leap_ naudotojai galės gerokai įsidiegti SLE sistemai skirtus paketus, o SLE naudotojai – įsidiegti _openSUSE Leap_ sistemai skirtuosius paketus. Be to, dėl tokio palaikymo lygio _openSUSE_ taps tiesiogine _CentOS_ konkurente.
 
 {{< youtube -nH4dLWizzU >}}
 

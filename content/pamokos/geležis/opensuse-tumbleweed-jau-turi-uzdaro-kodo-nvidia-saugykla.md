@@ -19,7 +19,7 @@ Norėdami _openSUSE Tumbleweed_ sistemoje pridėti šią naują NVIDIA saugyklą
 zypper ar -f https://download.nvidia.com/opensuse/tumbleweed nvidia-tumbleweed  
 zypper inr
 
-Tuo tarpu _AMD_ jau kurį laiką naujoms vaizdo plokštėms pati kuria atviro kodo _AMDGPU_ tvarkykles, kurios integruojamos į _Linux_ branduolį iškart (skaitykite apžvalgą apie [AMD tvarkykles _Linux_ sistemoms](index.php/pamokos/8-geleis/210-trumpai-apie-tvarkykles-amdati-vaizdo-ploktms)).
+Tuo tarpu _AMD_ jau kurį laiką naujoms vaizdo plokštėms pati kuria atviro kodo _AMDGPU_ tvarkykles, kurios integruojamos į _Linux_ branduolį iškart (skaitykite apžvalgą apie [AMD tvarkykles _Linux_ sistemoms]({{< ref "/pamokos/geležis/trumpai-apie-tvarkykles-amdati-vaizdo-ploktms" >}})).
 
 Daugiau informacijos:
 
