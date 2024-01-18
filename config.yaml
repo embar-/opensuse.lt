@@ -107,7 +107,7 @@ params:
         list: right
         single: right
         widgets:
-            - search
+            #- search
             - counter
             - laukiame-straipsnelių
     widgets:
