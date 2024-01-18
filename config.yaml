@@ -26,7 +26,7 @@ menus:
           params:
               rel: external
               target: _blank
-        - name: „openSUSE“ pradedantiesiems
+        - name: Pradedantiesiems
           pageRef: /opensuse-pradedantiesiems
           weight: 50
         - name: „Diegti tuoj pat“ kolekcija
