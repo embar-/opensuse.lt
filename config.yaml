@@ -73,20 +73,20 @@ menus:
           pageRef: /pamokos/http
           parent: Pamokos
           weight: 50
-        - name: Saugumas
-          pageRef: /pamokos/saugumas
-          parent: Pamokos
-          weight: 60
+      #  - name: Saugumas
+      #    pageRef: /pamokos/saugumas
+      #    parent: Pamokos
+      #    weight: 60
         - name: Išvaizdos keitimas
           pageRef: /pamokos/isvaizdos-keitimas
           parent: Pamokos
           weight: 70
-        - name: Įvairios pamokos
-          pageRef: /pamokos/ivairus
-          parent: Pamokos
-          weight: 80
         - name: Vertimas / lokalizavimas
           pageRef: /pamokos/vertimas-lokalizavimas
+          parent: Pamokos
+          weight: 80
+        - name: Įvairios pamokos
+          pageRef: /pamokos/ivairus
           parent: Pamokos
           weight: 90
 
