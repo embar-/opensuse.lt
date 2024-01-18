@@ -3,6 +3,7 @@
 }
 .menu__item {
     position: relative;
+    text-transform: none;
 }
 .submenu__list {
     list-style: none;
