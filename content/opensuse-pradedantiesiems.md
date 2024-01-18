@@ -71,6 +71,6 @@ Dauguma žemiau pateiktų nuorodų yra iš [neoficialios _openSUSE_ vikiknygos](
 
 * * *
 
-Trumpas neoficialus _openSUSE_ pradžiamokslis anglų kalba pasiekiamas [http://opensuse-guide.org/](http://opensuse-guide.org/) adresu.
+Trumpas neoficialus _openSUSE_ pradžiamokslis anglų kalba – [http://opensuse-guide.org/](http://opensuse-guide.org/).
 
-Oficiali _openSUSE_ dokumentacija anglų kalba pateikiama [http://doc.opensuse.org/](http://doc.opensuse.org/) svetainėje.
+Oficiali _openSUSE_ dokumentacija anglų kalba pateikiama [http://doc.opensuse.org/](http://doc.opensuse.org/).
