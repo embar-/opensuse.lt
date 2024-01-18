@@ -4,7 +4,7 @@ languageCode: lt
 title: openSUSE.lt
 description: openSUSE Linux naujienos, pagalba nuo 2002 m. spalio 25 d.
 theme: mainroad
-paginate: 3
+paginate: 5
 #refLinksErrorLevel: WARNING    # Issue a warning instead of error when encountering invalid ref/relref
 menus:
     main:
