@@ -15,7 +15,7 @@ menus:
           url: /pamokos
           weight: 20
         - name: Parsisiųsti „openSUSE“
-          url: https://software.opensuse.org/?locale=lt
+          url: https://get.opensuse.org/lt/leap/
           weight: 30
           params:
             rel: external
