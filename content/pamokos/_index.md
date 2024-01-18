@@ -7,20 +7,20 @@ author:  "system"
 ---
 
 Pamokų kategorijos:
-*   [Sistemos diegimas](/pamokos/diegimas)
+*   [Sistemos diegimas]({{< ref "/pamokos/diegimas" >}})
 
-*   [Programos](/pamokos/programos)
+*   [Programos]({{< ref "/pamokos/programos" >}})
 
-*   [Susiję su aparatine įranga](/pamokos/geležis)
+*   [Susiję su aparatine įranga]({{< ref "/pamokos/geležis" >}})
 
-*   [Nesklandumų sprendimas](/pamokos/klaidos)
+*   [Nesklandumų sprendimas]({{< ref "/pamokos/klaidos" >}})
 
-*   [Internetas ir tinklas](/pamokos/http)
+*   [Internetas ir tinklas]({{< ref "/pamokos/http" >}})
 
-*   [Saugumas](/pamokos/saugumas)
+*   [Saugumas]({{< ref "/pamokos/saugumas" >}})
 
-*   [Išvaizdos keitimas](/pamokos/isvaizdos-keitimas)
+*   [Išvaizdos keitimas]({{< ref "/pamokos/isvaizdos-keitimas" >}})
 
-*   [Vertimas / lokalizavimas](/pamokos/vertimas-lokalizavimas)
+*   [Vertimas / lokalizavimas]({{< ref "/pamokos/vertimas-lokalizavimas" >}})
 
-*   [Įvairios pamokos](/pamokos/ivairus)
+*   [Įvairios pamokos]({{< ref "/pamokos/ivairus" >}})
