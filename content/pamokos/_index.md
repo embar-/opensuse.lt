@@ -6,6 +6,21 @@ lastmod: "2017-06-29"
 author:  "system"
 ---
 
-Čia rasite pamokas.
+Pamokų kategorijos:
+*   [Sistemos diegimas](/pamokos/diegimas)
 
-Turėtų būti būdas išvardinti visas jų kategorijas automatiškai. Arba galima tai padaryti rankiniu būdu.
+*   [Programos](/pamokos/programos)
+
+*   [Susiję su aparatine įranga](/pamokos/geležis)
+
+*   [Nesklandumų sprendimas](/pamokos/klaidos)
+
+*   [Internetas ir tinklas](/pamokos/http)
+
+*   [Saugumas](/pamokos/saugumas)
+
+*   [Išvaizdos keitimas](/pamokos/isvaizdos-keitimas)
+
+*   [Vertimas / lokalizavimas](/pamokos/vertimas-lokalizavimas)
+
+*   [Įvairios pamokos](/pamokos/ivairus)
