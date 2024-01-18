@@ -3,7 +3,7 @@ title: "openSUSE pradedantiems"
 description: ""
 tags: [  ]
 date: "2010-02-01"
-lastmod: "2019-12-18"
+lastmod: "2024-01-18"
 ---
 **Glausta informacija** lietuvių kalba:
 
@@ -31,7 +31,7 @@ Dauguma žemiau pateiktų nuorodų yra iš [neoficialios _openSUSE_ vikiknygos](
 
 *   [Iš kur gauti openSUSE ISO atvaizdį?](http://lt.wikibooks.org/wiki/Linux_%C5%BEaliems:_openSUSE/I%C5%A1_kur_gauti_openSUSE%3F)  
     *   [http://software.opensuse.org](http://software.opensuse.org) – oficiali versija
-    *   [http://download.vikis.lt/lietukas](http://download.vikis.lt/lietukas) – lietuviška atmaina
+    *   [https://lietukas.lt](https://lietukas.lt) – lietuviška atmaina
 *   [ISO įrašymas į atmintuką](https://lt.wikibooks.org/wiki/Linux_%C5%BEaliems:_openSUSE/ISO_atvaizd%C5%BEio_%C4%AFra%C5%A1ymas#Ra.C5.A1ymas_.C4.AF_USB_laikmen.C4.85)  
     *   [Windows sistemoje](https://lt.wikibooks.org/wiki/Linux_%C5%BEaliems:_openSUSE/ISO_atvaizd%C5%BEio_%C4%AFra%C5%A1ymas#Windows_operacin.C4.97je_sistemoje)
         *   [išlaikant atmintuko turinį]({{< ref "/pamokos/diegimas/opensuse-liveusb-krimas-naudojant-windows-sistem-ilaikant-turin" >}}) (jei nėra naudojama UEFI)
