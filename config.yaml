@@ -14,21 +14,21 @@ menus:
         - name: Pamokos
           url: /pamokos
           weight: 20
+        - name: Pradedantiesiems
+          pageRef: /opensuse-pradedantiesiems
+          weight: 30
         - name: Parsisiųsti „openSUSE“
           url: https://get.opensuse.org/lt/leap/
-          weight: 30
+          weight: 40
           params:
             rel: external
             target: _blank
         - name: Parsisiųsti „Lietuką“
           url: https://lietukas.lt/gauti.html
-          weight: 40
+          weight: 50
           params:
               rel: external
               target: _blank
-        - name: Pradedantiesiems
-          pageRef: /opensuse-pradedantiesiems
-          weight: 50
         - name: „Diegti tuoj pat“ kolekcija
           url: https://lietukas.lt/ymp_kolekcija.html
           weight: 60
