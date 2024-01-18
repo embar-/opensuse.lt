@@ -17,8 +17,6 @@ Pamokų kategorijos:
 
 *   [Internetas ir tinklas]({{< ref "/pamokos/http" >}})
 
-*   [Saugumas]({{< ref "/pamokos/saugumas" >}})
-
 *   [Išvaizdos keitimas]({{< ref "/pamokos/isvaizdos-keitimas" >}})
 
 *   [Vertimas / lokalizavimas]({{< ref "/pamokos/vertimas-lokalizavimas" >}})
