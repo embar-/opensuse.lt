@@ -6,6 +6,8 @@ lastmod: "2017-06-29"
 author:  "system"
 ---
 
-Čia rasite pamokas.
 
-Turėtų būti būdas išvardinti visas jų kategorijas automatiškai. Arba galima tai padaryti rankiniu būdu.
+[//]: # (Pamokos)
+
+[//]: # ()
+[//]: # (Čia rasite įvarias openSUSE pamokas)
