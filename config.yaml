@@ -125,6 +125,8 @@ params:
         - opensuse-įvykiai
         - skelbimai
         - svetainės
+    taxonomies:
+        category: Pamokos
     dateFormat: :date_long
     post_meta:
         - author
