@@ -6,16 +6,10 @@ date: "2010-10-03"
 lastmod: "2017-06-29"
 draft: true
 ---
-  
-::jseblod::article::/jseblod::  
-::panel\_article:: ::/panel\_article::  
-::wysiwyg\_introtext::
+
 
 [SUSE Studio](http://susestudio.com/) leidžia patiems sukurti savo Linukso platinamąjį paketą (angl. distribution) ir parsisiųst. Vis tik gautas nemodifikuotas .iso yra netinkamas įrašymui į USB, o standžiojo disko atvaizdas užima ypač daug vietos. Todėl parodysiu, kaip gautą .iso įrašyti į atmintuką, t. y. pasigaminti LiveUSB. Vienas iš SUSE Studio kūrinių – [Lietukas](http://ftp.akl.lt/users/embar/). Daugiau SUSE Studio platinamųjų paketų rasite [SUSE Gallery](http://susegallery.com/browse) svetainėje.
 
-::/wysiwyg\_introtext::  
-::my\_readmore:: ::/my\_readmore::  
-::wysiwyg\_fulltext::
 
 Instrukcijose kaip pavyzdys naudojamas atmintuko įrenginys yra _/dev/sdb_, o mūsų „Live“ skaidinys yra _/dev/sdb1_. Koks yra jūsiškio atmintuko kelias, galite sužinoti įvykdę:
 
@@ -103,9 +97,3 @@ Informacijos šaltiniai:
 
 [http://lizards.opensuse.org/2008/05/31/making-opensuse-110-liveusb-the-easiest-and-fastest-way/](http://lizards.opensuse.org/2008/05/31/making-opensuse-110-liveusb-the-easiest-and-fastest-way/)
 
-::/wysiwyg\_fulltext::  
-::panel\_article\_details:: ::/panel\_article\_details::  
-::panel\_article\_params:: ::/panel\_article\_params::  
-::panel\_article\_meta:: ::/panel\_article\_meta::  
-::panel\_end:: ::/panel\_end::  
-::jseblodend::::/jseblodend::

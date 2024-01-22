@@ -6,16 +6,10 @@ date: "2011-08-31"
 lastmod: "2017-06-29"
 draft: true
 ---
-  
-::jseblod::article::/jseblod::  
-::panel\_article:: ::/panel\_article::  
-::wysiwyg\_introtext::
+
 
 openSUSE (YaST, LCN, WebYaST) vertimui naudojamos .po rinkmenos. Jas galite versti naudodamiesi [Lokalize](index.php?option=com_content&view=article&id=76:vertimas-su-lokalize-12&catid=20:programos&Itemid=2) programa.
 
-::/wysiwyg\_introtext::  
-::my\_readmore:: ::/my\_readmore::  
-::wysiwyg\_fulltext::
 
 **1\. Pasiruošimas**
 
@@ -195,10 +189,3 @@ Daugiau informacijos:
 [http://i18n.opensuse.org/](http://i18n.opensuse.org/)
 
 [http://developer.berlios.de/svn/?group\_id=11406](http://developer.berlios.de/svn/?group_id=11406)
-
-::/wysiwyg\_fulltext::  
-::panel\_article\_details:: ::/panel\_article\_details::  
-::panel\_article\_params:: ::/panel\_article\_params::  
-::panel\_article\_meta:: ::/panel\_article\_meta::  
-::panel\_end:: ::/panel\_end::  
-::jseblodend::::/jseblodend::

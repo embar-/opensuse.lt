@@ -6,16 +6,10 @@ date: "2011-08-31"
 lastmod: "2017-06-29"
 draft: true
 ---
-  
-::jseblod::article::/jseblod::  
-::panel\_article:: ::/panel\_article::  
-::wysiwyg\_introtext::
+
 
 [SUSE Studio](http://www.susestudio.com) svetainėje galite tobulinti esamus projektus, kuriuos rasite [SUSE galerijoje](http://susegallery.com/browse). Vienas iš tokių projektų yra [Lietukas](http://susegallery.com/search?q=lietukas). Norėdami jį modifikuoti, prisijunkite prie [www.susestudio.com](http://www.susestudio.com) su Novell, Google, Facebook, Yahoo ar OpenID, susiraskite norimą _SUSE Studio_ projektą ir jį klonuokite. Žemiau parašyta, kaip tobulinti jau sukurtą „SUSE Studio“ iso atvaizdį, pvz., padaryti jį tinkamu įrašyti į USB laikmeną.
 
-::/wysiwyg\_introtext::  
-::my\_readmore:: ::/my\_readmore::  
-::wysiwyg\_fulltext::
 
 Norėdami į sukurtą (angl. _build_) ISO atvaizdį įtraukti papildomų rinkmenų, pasinaudokite [isomaster](http://packman.links2linux.org/install/isomaster) programa.
 
@@ -58,9 +52,3 @@ Naująjį initrd (_/tmp/LiveUSB/initrd)_ nukopijuojame į _/boot/i386/loader/_ a
 
 Pastaba: taip įrašymui į atmintuką modifikuotas .ISO atvaizdis nebetinka įrašymui į CD/DVD.
 
-::/wysiwyg\_fulltext::  
-::panel\_article\_details:: ::/panel\_article\_details::  
-::panel\_article\_params:: ::/panel\_article\_params::  
-::panel\_article\_meta:: ::/panel\_article\_meta::  
-::panel\_end:: ::/panel\_end::  
-::jseblodend::::/jseblodend::

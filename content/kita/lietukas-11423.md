@@ -7,10 +7,6 @@ lastmod: "2017-06-29"
 draft: true
 ---
   
-::jseblod::article::/jseblod::  
-::panel\_article:: ::/panel\_article::  
-::wysiwyg\_introtext::
-
 „Lietukas“ atnaujintas iki 11.4.23 versijos.
 
 Lyginant su liepą paruošta versija:  
@@ -23,15 +19,4 @@ Galite atsisiųsti iš [http://ftp.akl.lt/users/embar/Lietukas/](http://ftp.akl.
 
 ![](/images/stories/lietuko%2011.4.18 darbalaukis.png)
 
-::/wysiwyg\_introtext::  
-::my\_readmore:: ::/my\_readmore::  
-::wysiwyg\_fulltext::
-
 {youtube}Q8dLg\_oD\_mU{/youtube}
-
-::/wysiwyg\_fulltext::  
-::panel\_article\_details:: ::/panel\_article\_details::  
-::panel\_article\_params:: ::/panel\_article\_params::  
-::panel\_article\_meta:: ::/panel\_article\_meta::  
-::panel\_end:: ::/panel\_end::  
-::jseblodend::::/jseblodend::
