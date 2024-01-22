@@ -6,7 +6,7 @@ date: "2017-09-03"
 lastmod: "2017-09-04"
 author:  "embar"
 ---
-Pastebėjom, kad žmonės vis dar siunčiasi senus 32 bitų _Lietuko_ atvaizdžius, sukurtus jau nebepalaikomų _openSUSE_ (13.x ir senesnių) versijų pagrindu. Jei tikrai norite siųstis 32 bitų sistemoms skirtą atvaizdį, jau galite [parsisiųsti Lietuko atvaizdį](http://download.vikis.lt/lietukas/gauti.html), sukurtą _openSUSE Tumbleweed_ pagrindu. Beje, sistema iš tokio 32 atvaizdžio pasileis tik jei:
+Pastebėjom, kad žmonės vis dar siunčiasi senus 32 bitų _Lietuko_ atvaizdžius, sukurtus jau nebepalaikomų _openSUSE_ (13.x ir senesnių) versijų pagrindu. Jei tikrai norite siųstis 32 bitų sistemoms skirtą atvaizdį, jau galite [parsisiųsti Lietuko atvaizdį](https://lietukas.lt/gauti.html), sukurtą _openSUSE Tumbleweed_ pagrindu. Beje, sistema iš tokio 32 atvaizdžio pasileis tik jei:
 
 *   kompiuterio procesorius palaiko [PAE](http://en.wikipedia.org/wiki/Physical_Address_Extension) (jei diegiate _VirtualBox_ programoje kaip 32 bitų mašiną, įgalinkite atitinkamą PAE/NX parinktį),
 *   kompiuterio paleidimui nėra naudojama UEFI (UEFI palaikymas yra tik 64 bitų atvaizdžiuose).

@@ -14,6 +14,6 @@ lastmod: "2017-09-17"
 *   stabilesnis ir greitesnis veikimas;
 *   nedideli grafinės išvaizdos pakeitimai.
 
-openSUSE (ir Lietuko) naudotojai LibreOffice 5.0 gali įsidiegti spustelėdami [![[Diegti tuoj pat]](http://download.vikis.lt/lietukas/img/1-click-install-lt.png)](http://download.vikis.lt/lietukas/ymp/LibreOffice50.php "http://download.vikis.lt/lietukas/ymp/LibreOffice50.ymp").
+openSUSE (ir Lietuko) naudotojai LibreOffice 5.0 gali įsidiegti spustelėdami [![[Diegti tuoj pat]](https://lietukas.lt/img/1-click-install-lt.png)](https://lietukas.lt/ymp/LibreOffice50.php "https://lietukas.lt/ymp/LibreOffice50.ymp").
 
 Daugiau informacijos apie LibreOffice naujoves 5.0 versijoje rasite anglų kalba [čia](https://wiki.documentfoundation.org/ReleaseNotes/5.0 "https://wiki.documentfoundation.org/ReleaseNotes/5.0").

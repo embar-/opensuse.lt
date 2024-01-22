@@ -3,11 +3,11 @@ title: "Instlux – diegimo laikmenos paleidimas per Windows sistemos paleidykl�
 description: ""
 tags: [  ]
 date: "2015-09-22"
-lastmod: "2017-08-17"
+lastmod: "2024-01-22"
 ---
 Jei kartais nepavyksta paleisti kompiuterio iš _openSUSE_ (tame tarpe ir _Lietuko_) diegimo laikmenos (DVD ar atmintuko) įsijungiant kompiuteriui (pvz., nerandate, kaip per BIOS nurodyti paleidimo laikmeną), tačiau esate įsidiegę _MS Windows_, tuomet jus išgelbėtų _Instlux_ programėlė. Tiesa, ji veiks tik tuo atveju, jei operacinės sistemos paleidimui nėra naudojama [UEFI]({{< ref "/pamokos/diegimas/opensuse-paleidimas-per-uefi-meniu" >}}). openSUSE įprastoje DVD diegimo laikmenoje ją rasite openSUSE13\_2\_LOCAL.exe ar panašiu pavadinimu. _Instlux_ programėlę rasite taip ir _Lietuke_ nuo 13.2.40.2 versijos. Jei radote šią programėlę diegimo laikmenoje – tiesiog ją paleiskite ir sekite diegimo programos instrukcijomis. Programa į _MS Windows_ paleidimo meniu įtrauks diegimo laikmenos paleidimo įrašą ir pasiūlys iš naujo paleisti kompiuterį.
 
-Jei _Instlux_ neturite, tuomet iš diegimo laikmenos nukopijuokite _boot_ katalogą į bet kokį laikiną katalogą (pvz., „Siuntiniai“), po to parsisiųskite _Instlux_ iš [čia](http://download.vikis.lt/lietukas/Instlux/) ir padėkite į tą patį katalogą (tarkim „Siuntiniai“) ir paleiskite.
+Jei _Instlux_ neturite, tuomet iš diegimo laikmenos nukopijuokite _boot_ katalogą į bet kokį laikiną katalogą (pvz., „Siuntiniai“). Po to parsisiųskite _Instlux_ iš [čia](http://download.opensuse.org/tumbleweed/repo/oss/openSUSE_installer.exe) ir padėkite į tą patį katalogą (tarkim „Siuntiniai“) ir paleiskite.
 
 ![Instlux](/images/stories/instlux_pasirinkimas_lietukas.png "Instlux")
 

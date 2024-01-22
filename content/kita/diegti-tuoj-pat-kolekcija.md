@@ -9,4 +9,4 @@ lastmod: "2017-07-31"
 
 * * *
 
-# Perkelta [čia](http://download.vikis.lt/lietukas/ymp_kolekcija.html).
+# Perkelta [čia](https://lietukas.lt/ymp_kolekcija.html).

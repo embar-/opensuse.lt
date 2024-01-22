@@ -5,4 +5,4 @@ tags: [  ]
 date: "2015-01-02"
 lastmod: "2017-07-31"
 ---
-„Diegti tuoj pat“ atnaujinta ir patalpinta [čia](http://download.vikis.lt/lietukas/ymp_kolekcija.html).
+„Diegti tuoj pat“ atnaujinta ir patalpinta [čia](https://lietukas.lt/ymp_kolekcija.html).
