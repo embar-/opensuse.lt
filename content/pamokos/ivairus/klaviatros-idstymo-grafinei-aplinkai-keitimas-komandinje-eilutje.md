@@ -27,4 +27,4 @@ JAV numatytajam klaviatūros išdėstymui, naudojant Microsoft klaviatūrą, įv
 
 Žinoma, klaviatūros išdėstymą galima keisti per savo darbalaukio konfigūravimo įrankius, pvz., KDE4 aplinkoje einant _Sistemos nustatymai > (Aparatinė įranga) > Įvedimo įrenginiai > Klaviatūra > Išdėstymai._
 
-Apie konsolės klaviatūros išdėstymo keitimą rašyta [čia](index.php/forumas/topic?id=20).
+Apie konsolės klaviatūros išdėstymo keitimą rašyta [čia]({{< ref "/pamokos/ivairus/virtualios-konsols-klaviatos-idstymo-keitimas" >}}).

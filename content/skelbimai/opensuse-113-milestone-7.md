@@ -14,7 +14,7 @@ Paminėkime keletą dalykų, kurie pasikeitė nuo openSUSE 11.3M3 iki openSUSE 1
 
 Pastaba: openSUSE 11.3 Milestone 7 nėra stabili sistema ir turi žinomų klaidų.
 
-Beje, šiuo metu pats laikas [versti openSUSE 11.3](index.php/forumas/topic?id=2) ar bent pranešti apie vertimo netikslumus.
+Beje, šiuo metu pats laikas versti openSUSE 11.3 ar bent pranešti apie vertimo netikslumus.
 
 Į openSUSE 11.3 bus įtraukti vertimo pakeitimai, padaryti iki birželio 9 dienos.
 

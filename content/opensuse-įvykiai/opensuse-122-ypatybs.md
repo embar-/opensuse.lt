@@ -3,11 +3,11 @@ title: "openSUSE 12.2 ypatybės"
 description: ""
 tags: [  ]
 date: "2012-09-01"
-lastmod: "2017-07-31"
+lastmod: "2024-02-08"
 ---
 2012 m. rugsėjo 5 d. pasirodė nauja openSUSE 12.2 versija, kurioje didelis dėmesys skiriamas stabilumui. Parsisiųsti galite iš [čia](http://software.opensuse.org/122/lt).
 
-Naujiems openSUSE ar Linux naudotojams siūlome peržiūrėti trumpą lietuvišką informaciją apie [openSUSE diegimą](http://ftp.akl.lt/users/embar/Dokumentacija/art.osuse.installquick.html) ir [KDE darbalaukio](http://ftp.akl.lt/users/embar/Dokumentacija/art.kdequick.html) aplinką (tai dalis angliškos dokumentacijos vertimo). Išsamesnė informacija svarbiausiais klausimais, kurie gali kilti naujokams, pateikta [šiame](http://ftp.akl.lt/users/embar/openSUSE%20pradedantiems.pdf) lietuviškame PDF, o sudėtingesnės pamokėlės aprašytos [čia](http://ftp.akl.lt/users/embar/openSUSE%20pamok%C4%97l%C4%97s%20pa%C5%BEengusiems.pdf). Puslapis openSUSE naujokams yra [čia](index.php?option=com_content&view=article&id=21&Itemid=6).
+Puslapis openSUSE naujokams yra [čia]({{< ref "/opensuse-pradedantiesiems" >}}).
 
 ![](http://en.opensuse.org/images/d/da/Preferences-system-performance.png)**Greitis**  
 Pradedant branduoliu ir baigiant darbalaukiu, openSUSE 12.2 turėtų veikti greičiau: Linux 3.4 branduolys greičiau dirba su kaupikliais, išvengiama blokavimo atliekant didelius duomenų perdavimus; pagrindinė glibc 2.15 bibliotekos patobulinimai taip pat leidžia pasiekti didesnį našumą, ypač dirbant su 64 bitų sistemomis; Systemd 44 leidžia greičiau paleisti pačią operacinę sistemą; KDE 4.8.4 sukompiliuota naudojant Qt 4.8.1, o tai leidžia greičiau reaguoti į naudotojo veiksmus.  

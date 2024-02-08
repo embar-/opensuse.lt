@@ -8,7 +8,7 @@ draft: true
 ---
 Jau galima [parsisiųsti](http://software.opensuse.org/developer/lt) ir išbandyti openSUSE 12.2 RC2 versiją, tačiau prieš tai būtina susipažinti su joje esančiais [trūkumais](http://en.opensuse.org/openSUSE:Most_annoying_bugs_12.2_dev#openSUSE_12.2_RC_2).
 
-[87%](http://i18n.opensuse.org) šios versijos pranešimų yra išversta į lietuvių kalbą (12.1 galutinėje versijoje buvo 91% išversta), tad labai laukiame jūsų [vertimų](index.php?option=com_content&view=article&id=80:opensuse-vertimas-yast-lcn-webyast&catid=7:ivairus&Itemid=2) pataisymų.
+[87%](http://i18n.opensuse.org) šios versijos pranešimų yra išversta į lietuvių kalbą (12.1 galutinėje versijoje buvo 91% išversta), tad labai laukiame jūsų [vertimų]({{< ref "/pamokos/vertimas-lokalizavimas/opensuse-vertimas-yast-lcn-webyast" >}}) pataisymų.
 
 2012 metų rugsėjo viduryje turėtų pasirodyti ir galutinė versija.
 

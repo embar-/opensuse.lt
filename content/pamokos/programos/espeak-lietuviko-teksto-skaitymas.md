@@ -15,7 +15,7 @@ espeak -v lt "Jūsų tekstas. LT"
 espeak -v mb/mb-lt1 "Jūsų tekstas. M brola LT 1"  
 espeak -v mb/mb-lt2 "Jūsų tekstas. M brola LT 2" 
 
-Espeak galima naudoti kartu su, pvz., KDE [Jovie](http://software.opensuse.org/package/jovie) (kad veiktų pastaroji, turi būti **į**jungta PulseAudio sistema; apie jos **iš**jungimą buvo rašyta [čia](index.php?option=com_content&view=article&id=66:garso-problemos-opensuse-114-ir-pulseaudio&catid=7:ivairus&Itemid=2)).
+Espeak galima naudoti kartu su, pvz., KDE [Jovie](http://software.opensuse.org/package/jovie) (kad veiktų pastaroji, turi būti **į**jungta PulseAudio sistema; apie jos **iš**jungimą buvo rašyta [čia]({{< ref "/pamokos/ivairus/garso-problemos-opensuse-114-ir-pulseaudio" >}})).
 
 Norėdami patobulinti tarimą, sukurkite savo namų kataloge aplanką espeak-data ir nukopijuokite į jį visą /usr/share/espeak-data turinį. Tai padaryti galite įvykdę komandą:
 
