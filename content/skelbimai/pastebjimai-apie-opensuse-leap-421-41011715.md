@@ -21,7 +21,7 @@ Užsidegusią lemputę matysite ir jau įdiegtoje sistemoje – darbalaukio fone
 Pats diegimas vyksta praktiškai taip pat, kaip ir ankstesnėse _openSUSE_ versijose.  
 Maža naujovė: pirmame diegimo lange, kuriame pateikiama licencija bei pasirenkama kalba ir klaviatūra, galite išbandyti klaviatūros išdėstymą.  
   
-Beje, šioje _openSUSE_ versijoje, palyginti su 13.2, šiek tiek daugiau matote išverstų pranešimų į lietuvių kalbą, kurie priklauso nuo _openSUSE:_ 86% _YaST,_ 82% įvairių kitų. Dalis vertimų nespėjo pakliūti į galutinę _openSUSE 42.1_: daugiausia jie susiję _desktop-translations_ paketo turiniu. Remiantis patirtimi su ankstesnėmis _openSUSE_ versijomis, galima tikėtis, kad naudotojus dar papildyti vertimai pasieks iki gruodžio pradžios per atnaujinimus internetu. Tad, jeigu suskubtumėte [prisidėti verčiant _openSUSE_](index.php?option=com_content&view=article&id=80), galbūt jūsų indėlis būtų matomas dar šioje versijoje; kita vertus – prisidėti galite bet kada.
+Beje, šioje _openSUSE_ versijoje, palyginti su 13.2, šiek tiek daugiau matote išverstų pranešimų į lietuvių kalbą, kurie priklauso nuo _openSUSE:_ 86% _YaST,_ 82% įvairių kitų. Dalis vertimų nespėjo pakliūti į galutinę _openSUSE 42.1_: daugiausia jie susiję _desktop-translations_ paketo turiniu. Remiantis patirtimi su ankstesnėmis _openSUSE_ versijomis, galima tikėtis, kad naudotojus dar papildyti vertimai pasieks iki gruodžio pradžios per atnaujinimus internetu. Tad, jeigu suskubtumėte [prisidėti verčiant _openSUSE_]({{< ref "pamokos/vertimas-lokalizavimas/opensuse-vertimas-interneto-naryklje" >}}), galbūt jūsų indėlis būtų matomas dar šioje versijoje; kita vertus – prisidėti galite bet kada.
 
 ![Licencija,         kalba, klaviatūra](/images/stories/leap421_licencija.png "Licencija, kalba, klaviatūra")  
   
@@ -65,7 +65,7 @@ Labai gražiai integruojasi ir vienas į kitą pereina Plasmos valdikliai, pavyz
   
 ![Plasmos         valdikliai](/images/stories/plasma5valdikliai2.gif "Plasmos valdikliai")  
   
-Ne visur _KDE Plasma 5.4_ čia tokia vientisa išvaizdos prasme. Atsidarius _KDE_ programas matyti _Breeze_ ženkliukai. Jie minimalistiniai, viename ženkliuke dominuoja tik vienas atspalvis, ne tokie išraiškingi – mažiau krentantys į akis dirbant. _Breeze_ ženkliukai rinkmenų tvarkytuvėje nepadeda taip gerai atskirti katalogų nuo rinkmenų, kadangi abiejų spalvos yra pakankamai ryškios, tuo tarpu _Oxygen_ ženkliukų rinkinyje aplankai yra gerokai ryškesni nei balsvesnės rinkmenos. Ko gero tiesiog reiktų laiko priprasti prie _Breeze_ apipavidalinimo. Kita vertus, ženkliukų apipavidalinimo rinkinį galit patys bet kada pasikeisti ar gana patogiai netgi įsidiegti visiškai naują iš siūlomų. Beje galite [pasikeisti ir YaST ženkliukų apipavidalinimą](index.php?option=com_content&view=article&id=133:yast-enkliukai&catid=7:ivairus&Itemid=2).
+Ne visur _KDE Plasma 5.4_ čia tokia vientisa išvaizdos prasme. Atsidarius _KDE_ programas matyti _Breeze_ ženkliukai. Jie minimalistiniai, viename ženkliuke dominuoja tik vienas atspalvis, ne tokie išraiškingi – mažiau krentantys į akis dirbant. _Breeze_ ženkliukai rinkmenų tvarkytuvėje nepadeda taip gerai atskirti katalogų nuo rinkmenų, kadangi abiejų spalvos yra pakankamai ryškios, tuo tarpu _Oxygen_ ženkliukų rinkinyje aplankai yra gerokai ryškesni nei balsvesnės rinkmenos. Ko gero tiesiog reiktų laiko priprasti prie _Breeze_ apipavidalinimo. Kita vertus, ženkliukų apipavidalinimo rinkinį galit patys bet kada pasikeisti ar gana patogiai netgi įsidiegti visiškai naują iš siūlomų. Beje galite [pasikeisti ir YaST ženkliukų apipavidalinimą]({{< ref "isvaizdos-keitimas/yast-enkliukai" >}}).
 
 ![Dolphin](/images/stories/dolphin_breeze.png "Dolphin")
 
@@ -82,7 +82,7 @@ Gali tekti susidurti su nedideliais nesklandumais. Pirmą kartą paleista _Konta
 
 Paminėtina, kad pačiose pirmosiose _KDE Plasma 5_ versijose naudotojai keikdavo _KDE Plasma 5_ darbalaukį dėl dažnų jo nulūžimų, tačiau dažnu atveju problema visai nesusijusi su KDE! Grafikai perteikti vis labiau išnaudojamas vaizdo plokščių potencialas, o tai padeda gerokai greičiau į dienos šviesą iškelti kartais pasitaikančius Linux vaizdo perteikimo sistemų ir vaizdo plokščių netobulumus. Taigi darbo su nauja _KDE Plasma_ aplinka potyriai gerokai labiau priklauso nuo jūsų kompiuterio aparatinės įrangos, pasirinktų vaizdo plokštės tvarkyklių ir kai kurių papildomų grafikos sistemų dermės.
 
-Todėl visa pikto praverstu, žinoti, kad, jei kartais ši versija vis dar keltų su grafika susijusių nesklandumų, [sprendimų yra](index.php?option=com_content&view=article&id=162).
+Todėl visa pikto praverstu, žinoti, kad, jei kartais ši versija vis dar keltų su grafika susijusių nesklandumų, [sprendimų yra]({{< ref "/pamokos/geležis/patarimai-dl-kde-plasma-5-grafikos" >}}).
 
 _KDE_ aplinka remiasi _Qt_ bibliotekomis. Nors buvo galima tikėtis, kad _Leap 42.1_ gaus _Qt 5.5.1_ (jį gavo Tumbleweed), tačiau gavo _Qt 5.5.0_ versiją, kuri vis tik papildyta svarbiais pataisymais, atkeltais (angl. _backported_) iš _Qt 5.5.1_.
 
@@ -94,12 +94,10 @@ Paprastiems naudotojams iš naujų _YaST_ modulių galbūt įdomesnis būtų šr
 Apžvalgėlę pradėjome nuo atsinaujinusios _openSUSE_ svetainės, o artėdami prie jos pabaigos vėl sugrįžtame: numatytoji svetainė _Mozilla Firefox_ ir _Chromium_ naršyklėse dabar leidžia greitai pasiekti pagrindines _openSUSE_ svetainės skiltis – pradinį puslapį, programinės įrangos paiešką, vikį ir kūrimo paslaugą – arba iškart atlikti paiešką internete taip, kaip tai darote _Google_ svetainėje.  
 ![Geeko](/images/stories/geeko_google.png "Geeko")  
   
-Jei ketinate įsidiegti ar jau įsidiegėte openSUSE, tačiau esate naujokas, pasižvalgykite po [šiame](index.php?option=com_content&view=article&id=21:naujokams&catid=1:svetains&Itemid=6) puslapyje pateiktas nuorodas. Beje, nieko tokio, kad dalis informacijos skirta senesnėms versijoms – praktiškai viskas tebegalioja. Netgi 5 metų patarimai apie darbelius po _openSUSE 11.4_ diegimo iš demonstracinės laikmenos (LiveCD) su _KDE 4.6_ tinka ir šiandienai; skirtumas tas, kad _libxine1-codecs_ paketą pakeitė _libxine2-codecs_, tačiau jis nebeaktualus, nes _KDE_ garso sistema _Phonon_ nebepalaiko _Xine_ variklio, o _Google Chrome_ veikimui nebereikia patiems diegti vieno papildomo paketo.
+Jei ketinate įsidiegti ar jau įsidiegėte openSUSE, tačiau esate naujokas, pasižvalgykite po [šiame]({{< ref "/opensuse-pradedantiesiems" >}}) puslapyje pateiktas nuorodas. Beje, nieko tokio, kad dalis informacijos skirta senesnėms versijoms – praktiškai viskas tebegalioja. Netgi 5 metų patarimai apie darbelius po _openSUSE 11.4_ diegimo iš demonstracinės laikmenos (LiveCD) su _KDE 4.6_ tinka ir šiandienai; skirtumas tas, kad _libxine1-codecs_ paketą pakeitė _libxine2-codecs_, tačiau jis nebeaktualus, nes _KDE_ garso sistema _Phonon_ nebepalaiko _Xine_ variklio, o _Google Chrome_ veikimui nebereikia patiems diegti vieno papildomo paketo.
 
 O štai čia naujosios openSUSE 42.1 diegimo vaizdo įrašas:
 
 {{< youtube D-6bToLumM8 >}}
-
-Jūsų atsiliepimų išbandžius _openSUSE Leap_ lauksime [forume](http://forumai.akl.lt/index.php/topic,4794.0.html).
 
 Džiugių akimirkų!
