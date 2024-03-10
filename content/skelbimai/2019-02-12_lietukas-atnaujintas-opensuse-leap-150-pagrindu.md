@@ -8,7 +8,7 @@ author:  "embar"
 ---
 ![](/images/naujienos/Lietukas_logo.png)
 
-Po metų pertraukos _„Lietukas“_ – lietuviškas atvaizdis _openSUSE Linux_ sistemai su _KDE Plasma_ aplinka paleisti – [atnaujintas](http://www.lietukas.lt/gauti.html) naujausios stabiliausios _openSUSE_ atmainos – _openSUSE Leap 15.0_ – pagrindu. Paviršutiniškai žiūrint, pokyčiai nuo _Lietuko 42.3_ versijos nėra dideli; darbalaukio išvaizda praktiškai tokia – dominuoja _Oxygen_ stiliaus spalvingi erdviniai detalūs išdailinti ženkliukai (nors pasaulyje šiuo metu populiarūs primityvūs vienspalviai greitai nupiešiami plokšti ženkliukai). Bet yra giliau esančių atsinaujinusių technologijų. Pakeitimai pirmiausia apima šuolį nuo _openSUSE 42_ serijos iki _openSUSE 15_:
+Po metų pertraukos _„Lietukas“_ – lietuviškas atvaizdis _openSUSE Linux_ sistemai su _KDE Plasma_ aplinka paleisti – [atnaujintas](https://www.lietukas.lt/gauti.html) naujausios stabiliausios _openSUSE_ atmainos – _openSUSE Leap 15.0_ – pagrindu. Paviršutiniškai žiūrint, pokyčiai nuo _Lietuko 42.3_ versijos nėra dideli; darbalaukio išvaizda praktiškai tokia – dominuoja _Oxygen_ stiliaus spalvingi erdviniai detalūs išdailinti ženkliukai (nors pasaulyje šiuo metu populiarūs primityvūs vienspalviai greitai nupiešiami plokšti ženkliukai). Bet yra giliau esančių atsinaujinusių technologijų. Pakeitimai pirmiausia apima šuolį nuo _openSUSE 42_ serijos iki _openSUSE 15_:
 
 *   _4.12 LTS_ versijos _Linux_ branduolys su _openSUSE_ meistrų atkeltais patobulinimais (įskaitant grafikos) iš naujesnių branduolio versijų;
 *   _KDE Plasma 5.12 LTS_ darbalaukio aplinka;
@@ -23,4 +23,4 @@ Kiti pakeitimai:
 
 Dokumentacija – vieta, kur pakeitimų reikėtų, bet jų dar nelabai yra – jos nespėta peržiūrėti ir kai kurie dalykai gali būti joje pasenę...
 
-Puikiai tiks ieškantiems balanso tarp šviežios ir stabilios programinės įrangos. _Lietukas_ yra ta pati _openSUSE_ sistema ir gaus visus atitinkamus _openSUSE Leap 15.0_ versijos atnaujinimus ir jį bus galima vėliau atnaujinti iki kitų _openSUSE_ versijų. Išbandykite parsisiuntę iš [www.lietukas.lt](http://www.lietukas.lt) svetainės! Beje, senesnių versijų turėtojams [yra galimybė atsinaujinti](http://www.lietukas.lt/ymp/lietuko_atnaujinimas.html) iki 15.0 versijos.
+Puikiai tiks ieškantiems balanso tarp šviežios ir stabilios programinės įrangos. _Lietukas_ yra ta pati _openSUSE_ sistema ir gaus visus atitinkamus _openSUSE Leap 15.0_ versijos atnaujinimus ir jį bus galima vėliau atnaujinti iki kitų _openSUSE_ versijų. Išbandykite parsisiuntę iš [www.lietukas.lt](https://www.lietukas.lt) svetainės! Beje, senesnių versijų turėtojams [yra galimybė atsinaujinti](https://www.lietukas.lt/ymp/lietuko_atnaujinimas.html) iki 15.0 versijos.

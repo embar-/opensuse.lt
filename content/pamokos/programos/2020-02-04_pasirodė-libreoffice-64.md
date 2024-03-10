@@ -19,7 +19,7 @@ author:  "embar"
 
 Daugiau informacijos apie naujoves rasite [puslapyje anglų kalba](https://wiki.documentfoundation.org/ReleaseNotes/6.4).
 
-Naujausią LibreOffice parsisiųsti galite iš [oficialios svetainės](https://www.libreoffice.org/download/) kaip TAR.GZ archyvą su RPM paketais. O jei nenorite žaisti su tokiais archyvais, į openSUSE LibreOffice 6.4 galite įdiegti per [„Diegti tuoj pat“ nuorodą](http://www.lietukas.lt/ymp/gauti.php?ymp=LibreOffice64).
+Naujausią LibreOffice parsisiųsti galite iš [oficialios svetainės](https://www.libreoffice.org/download/) kaip TAR.GZ archyvą su RPM paketais. O jei nenorite žaisti su tokiais archyvais, į openSUSE LibreOffice 6.4 galite įdiegti per [„Diegti tuoj pat“ nuorodą](https://www.lietukas.lt/ymp/gauti.php?ymp=LibreOffice64).
 
 Vis tik jei nesate iš tų, kurie nori išbandyti naujoves ir susidurti su netikėtumais programose, siūloma kol kas likti prie tebepalaikomos LibreOffice 6.3 versijos, o prie LibreOffice 6.4 pereiti po kelių mėnesių, kai baiginėsis LibreOffice 6.3 serijos palaikymas ir jau bus aptiktos ir ištaisytos giliau pasislėpusios LibreOffice 6.4 klaidelės.
 

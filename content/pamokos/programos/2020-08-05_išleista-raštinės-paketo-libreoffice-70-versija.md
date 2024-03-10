@@ -20,7 +20,7 @@ author:  "embar"
 
 {{< youtube XusjjbBm81s >}}
 
-Įdiegti LibreOfiice 7.0 į openSUSE sistemą galite per [šią „Diegti tuoj pat“ nuorodą](http://www.lietukas.lt/ymp/gauti.php?ymp=LibreOffice70). Tokiu būdu įsidiegtumėte paketus, kurie buvo [parsisiųsti iš oficialios LibreOffice](https://www.libreoffice.org/download/download/?type=rpm-x86_64&lang=lt) svetainės ir išskleisti „Lietuko“ saugykloje.
+Įdiegti LibreOfiice 7.0 į openSUSE sistemą galite per [šią „Diegti tuoj pat“ nuorodą](https://www.lietukas.lt/ymp/gauti.php?ymp=LibreOffice70). Tokiu būdu įsidiegtumėte paketus, kurie buvo [parsisiųsti iš oficialios LibreOffice](https://www.libreoffice.org/download/download/?type=rpm-x86_64&lang=lt) svetainės ir išskleisti „Lietuko“ saugykloje.
 
 Daugiau informacijos:
 

@@ -24,7 +24,7 @@ Nuo netikėtumų niekas neapsaugotas, tad patariama reguliariai darytis svarbių
 Trūkumai:
 
 *   Jei operacinės sistemos paleidyklė įdiegiama į pirmą disko ar skaidinio sektorių, paleidyklė nėra suarchyvuojama. Tai gali būti svarbu tik tuo atveju, jei operacinės sistemos paleidimui naudojamas senasis būdas per BIOS (angliškai dar vadinamas „Legacy boot“), kai disko skaidinių lentelė yra MSDOS tipo (paprastai galioja senesniems kompiuteriams); tuomet atkūrus operacinę sistemą ji nepasileistų – prieš tai tektų iš naujo įdiegti paleidyklę; arba atskirai archyvuoti paleidimo sektorius kitais įrankiais. Tai visai nėra svarbu naudojant diskus su GPT tipo skaidinių lentelėmis, kuomet paleidimui naudojama EFI technologija (prieinama kompiuteriuose, pagamintuose nuo maždaug 2011–2012 m.).
-*   Skaidinys, kurio atsarginė kopija daroma, turėtų būti nenaudojamas/atjungtas arba būti tik skaitomas (angl. _read-only_); jei tame skaidinyje įdiegta operacinė sistema, „fsarchiver“ reikia paleisti iš kitos operacinės sistemos, pvz., LiveCD/LiveUSB laikmenos ([Lietukas](http://www.lietukas.lt/gauti.html) nuo 15.0.0 versijos jau turi „fsarchiver“);
+*   Skaidinys, kurio atsarginė kopija daroma, turėtų būti nenaudojamas/atjungtas arba būti tik skaitomas (angl. _read-only_); jei tame skaidinyje įdiegta operacinė sistema, „fsarchiver“ reikia paleisti iš kitos operacinės sistemos, pvz., LiveCD/LiveUSB laikmenos ([Lietukas](https://www.lietukas.lt/gauti.html) nuo 15.0.0 versijos jau turi „fsarchiver“);
 *   BTRFS momentinės kopijos nėra archyvuojamos – „fsarchiver“ archyvuoja tik tuos BTRFS skaidinių duomenis, kurie būtų matomi prijungus skaidinį.
 
 Naudojimas:
