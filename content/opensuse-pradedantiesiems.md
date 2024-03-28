@@ -1,6 +1,6 @@
 ---
-title: "openSUSE pradedantiems"
-description: ""
+title: "opensuse-pradedantiesiems"
+description: "opensuse-pradedantiesiems"
 tags: [  ]
 date: "2010-02-01"
 lastmod: "2024-01-18"
