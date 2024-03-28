@@ -8,87 +8,83 @@ paginate: 5
 #refLinksErrorLevel: WARNING    # Issue a warning instead of error when encountering invalid ref/relref
 menus:
     main:
-        - name: Naujienos
+        - name: Naujienos ir pamokos
           pageRef: /
           weight: 10
-        - name: Pamokos
-          url: /pamokos
-          weight: 20
         - name: Pradedantiesiems
           pageRef: /opensuse-pradedantiesiems
-          weight: 30
+          weight: 20
         - name: Parsisiųsti „openSUSE“
           url: https://get.opensuse.org/lt/leap/
-          weight: 40
+          weight: 30
           params:
             rel: external
             target: _blank
         - name: Parsisiųsti „Lietuką“
           url: https://lietukas.lt/gauti.html
-          weight: 50
+          weight: 40
           params:
               rel: external
               target: _blank
         - name: „Diegti tuoj pat“ kolekcija
           url: https://lietukas.lt/ymp_kolekcija.html
-          weight: 60
+          weight: 50
           params:
               rel: external
               target: _blank
 
         - name: openSUSE įvykiai
           pageRef: /opensuse-įvykiai
-          parent: Naujienos
+          parent: Naujienos ir pamokos
           weight: 10
         - name: Skelbimai
           pageRef: /skelbimai
-          parent: Naujienos
+          parent: Naujienos ir pamokos
           weight: 20
         - name: Svetainės
           pageRef: /svetainės
-          parent: Naujienos
+          parent: Naujienos ir pamokos
           weight: 30
-        - name: Kita
-          pageRef: /kita
-          parent: Naujienos
+        - name: Kitos naujienos
+          pageRef: /kitos-naujienos
+          parent: Naujienos ir pamokos
           weight: 40
-
         - name: Sistemos diegimas
-          pageRef: /pamokos/diegimas
-          parent: Pamokos
-          weight: 10
-        - name: Programos
-          pageRef: /pamokos/programos
-          parent: Pamokos
-          weight: 20
-        - name: Susiję su aparatine įranga
-          pageRef: /pamokos/geležis
-          parent: Pamokos
-          weight: 30
-        - name: Nesklandumų sprendimas
-          pageRef: /pamokos/klaidos
-          parent: Pamokos
-          weight: 40
-        - name: Internetas ir tinklas
-          pageRef: /pamokos/http
-          parent: Pamokos
+          pageRef: /diegimas
+          parent: Naujienos ir pamokos
           weight: 50
-      #  - name: Saugumas
-      #    pageRef: /pamokos/saugumas
-      #    parent: Pamokos
-      #    weight: 60
-        - name: Išvaizdos keitimas
-          pageRef: /pamokos/isvaizdos-keitimas
-          parent: Pamokos
+        - name: Programos
+          pageRef: /programos
+          parent: Naujienos ir pamokos
+          weight: 60
+        - name: Susiję su aparatine įranga
+          pageRef: /geležis
+          parent: Naujienos ir pamokos
           weight: 70
-        - name: Vertimas / lokalizavimas
-          pageRef: /pamokos/vertimas-lokalizavimas
-          parent: Pamokos
+        - name: Nesklandumų sprendimas
+          pageRef: /klaidos
+          parent: Naujienos ir pamokos
           weight: 80
-        - name: Įvairios pamokos
-          pageRef: /pamokos/ivairus
-          parent: Pamokos
+        - name: Internetas ir tinklas
+          pageRef: /tinklas
+          parent: Naujienos ir pamokos
           weight: 90
+      #  - name: Saugumas
+      #    pageRef: /saugumas
+      #    parent: Naujienos ir pamokos
+      #    weight: 100
+        - name: Išvaizdos keitimas
+          pageRef: /išvaizdos-keitimas
+          parent: Naujienos ir pamokos
+          weight: 110
+        - name: Vertimas / lokalizavimas
+          pageRef: /vertimas-lokalizavimas
+          parent: Naujienos ir pamokos
+          weight: 120
+        - name: Kitos pamokos
+          pageRef: /kitos-pamokos
+          parent: Naujienos ir pamokos
+          weight: 130
 
 #uglyURLs: true # uncomment to use .html suffix in URLs instead of a trailing slash
 markup:
