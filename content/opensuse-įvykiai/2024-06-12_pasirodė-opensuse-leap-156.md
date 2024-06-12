@@ -18,6 +18,8 @@ Pasirodžiusią _openSUSE_ versiją parsisiųsti galima iš [https://get.opensus
 
 Ankstesnė _openSUSE Leap 15.5_ versija dar bus palaikoma pusmetį. Atnaujinimui galite naudotis šiomis [senomis lietuviškomis instrukcijomis](https://opensuse.lt/diegimas/2016-11-16_opensuse-bei-lietuko-42-arba-15-atnaujinimas-iki-153-versijos/) – pats procesas iš esmės nesikeičia jau metų metus, tik paskutiniai versijų skaitmenys skirsis; taip pat [angliškomis oficialiomis instrukcijomis](https://en.opensuse.org/SDB:System_upgrade). O „Lietuko“ naudotojai gali pasinaudoti [šiomis instrukcijomis](https://lietukas.lt/ymp/lietuko_atnaujinimas.html), tik irgi atitinkamose vietose pasikeisdami versijos skaičių 15.6.
 
+Jūsų atsiliepimų išbandžius _openSUSE Leap 15.6_ laukiame iki birželio 26 d. užpildant [klausimyną](https://survey.opensuse.org/).
+
 Daugiau informacijos apie _openSUSE Leap 15.6_ anglų kalba:
 
 *   [https://news.opensuse.org/2024/06/12/leap-unveils-choices-for-users/](https://news.opensuse.org/2024/06/12/leap-unveils-choices-for-users/)
