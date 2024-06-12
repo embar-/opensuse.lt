@@ -6,7 +6,7 @@ date: "2024-06-12"
 lastmod: "2024-06-12"
 author:  "embar"
 ---
-![openSUSE fejerverkuose](https://news.opensuse.org/wp-content/uploads/2023/06/openSUSE_party.jpg
+![openSUSE fejerverkuose](https://news.opensuse.org/wp-content/uploads/2023/06/openSUSE_party.jpg)
 
 2024 m. birželio 12 d. pasirodė _openSUSE Leap 15.6_ versija – jau paskutinė 15.x serijoje. Tai dar vienas nuobodus atnaujinimas _openSUSE Leap 15.x_ serijoje, kita vertus patiks mėgstantiems stabilią bei patikimą sistemą ir atnaujinimus be didesnių staigmenų, nors atnaujinimų netgi kiek daugiau negu buvo tarp 15.4 ir 15.5 versijų. Palyginus _openSUSE Leap 15.6_ su _openSUSE Leap 15.5_:
 
