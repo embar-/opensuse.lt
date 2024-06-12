@@ -21,6 +21,9 @@ Ankstesnė _openSUSE Leap 15.5_ versija dar bus palaikoma pusmetį. Atnaujinimui
 Daugiau informacijos apie _openSUSE Leap 15.6_ anglų kalba:
 
 [https://news.opensuse.org/2024/06/12/leap-unveils-choices-for-users/](https://news.opensuse.org/2024/06/12/leap-unveils-choices-for-users/)
+
 [https://en.opensuse.org/Portal:15.6](https://en.opensuse.org/Portal:15.6)
+
 [https://en.opensuse.org/Features_15.6](https://en.opensuse.org/Features_15.6)
+
 [https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/15.6/](https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/15.6/)
